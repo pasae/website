@@ -1,7 +1,7 @@
 const getReview = () => {
     const class_name = document.getElementById("className").value;
 
-    const url = ` https://www.ocf.berkeley.edu/~pasae/flask/revs/${class_name}`;
+    const url = `https://www.ocf.berkeley.edu/~pasae/flask/revs/${class_name}`;
 
     console.log(url);
 
@@ -21,6 +21,8 @@ const getReview = () => {
     xhr.send(data);
 
     console.log(data);
+    
+    showClasses(data);
 
     // fetch(url)
     // .then(
@@ -144,7 +146,7 @@ const sendReview = () => {
     }
     });
 
-    const url = ` https://www.ocf.berkeley.edu/~pasae/flask/revs/${class_name}`
+    const url = `https://www.ocf.berkeley.edu/~pasae/flask/revs/${class_name}`
 
     xhr.open("POST", url);
 
