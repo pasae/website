@@ -7,43 +7,43 @@ const getReview = () => {
 
     var data = null;
 
-    var xhr = new XMLHttpRequest();
-    xhr.withCredentials = true;
+    // var xhr = new XMLHttpRequest();
+    // // xhr.withCredentials = true;
 
-    xhr.addEventListener("readystatechange", function () {
-    if (this.readyState === this.DONE) {
-        console.log(this.responseText);
-    }
-    });
-
-    xhr.open("GET", url);
-
-    xhr.send(data);
-
-    console.log(data);
-    
-    showClasses(data);
-
-    // fetch(url)
-    // .then(
-    //     function(response) {
-    //     if (response.status !== 200) {
-    //         console.log('Looks like there was a problem. Status Code: ' +
-    //         response.status);
-    //         return;
-    //     }
-
-    //     // Examine the text in the response
-    //     response.json().then(function(data) {
-    //         console.log(data);
-    //         clearTable();
-    //         showClasses(data);
-    //     });
-    //     }
-    // )
-    // .catch(function(err) {
-    //     console.log('Fetch Error :-S', err);
+    // xhr.addEventListener("readystatechange", function () {
+    // if (this.readyState === this.DONE) {
+    //     console.log(this.responseText);
+    // }
     // });
+
+    // xhr.open("GET", url);
+
+    // xhr.send(data);
+
+    // console.log(data);
+    
+    // showClasses(data);
+
+    fetch(url)
+    .then(
+        function(response) {
+        if (response.status !== 200) {
+            console.log('Looks like there was a problem. Status Code: ' +
+            response.status);
+            return;
+        }
+
+        // Examine the text in the response
+        response.json().then(function(data) {
+            console.log(data);
+            clearTable();
+            showClasses(data);
+        });
+        }
+    )
+    .catch(function(err) {
+        console.log('Fetch Error :-S', err);
+    });
 
 }
 
