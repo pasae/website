@@ -138,7 +138,7 @@ const sendReview = () => {
     document.getElementById("student").value = "";
 
     var xhr = new XMLHttpRequest();
-    xhr.withCredentials = true;
+    // xhr.withCredentials = true;
 
     xhr.addEventListener("readystatechange", function () {
     if (this.readyState === this.DONE) {
