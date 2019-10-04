@@ -1,138 +1,138 @@
 data = [
   {
-    "First": "Michael Celebrado",
-    "Second": "Keziah Aurin"
-  },
-  {
-    "First": "Mary Therese Pamplona",
-    "Second": "Andrew James Ortega"
-  },
-  {
-    "First": "Trish Nubla",
-    "Second": "Kendal Asprec"
-  },
-  {
-    "First": "Romy Mastel",
-    "Second": "Joanne Garcia"
-  },
-  {
-    "First": "Patty Natividad",
-    "Second": "John Bryant Pacleb Cadiz"
-  },
-  {
-    "First": "Kim Chua",
-    "Second": "Joseph Casey"
+    "First": "Kathryn Balingit",
+    "Second": "Fritzi Ledesma"
   },
   {
     "First": "Parkash Sidhu",
-    "Second": "Josh Bautista"
+    "Second": "Mary Therese Pamplona"
   },
   {
-    "First": "Annika Yu",
-    "Second": "Gabby Africa"
-  },
-  {
-    "First": "CJ Hines",
-    "Second": "Mikee Martin"
-  },
-  {
-    "First": "Clara Isabel Lantin",
-    "Second": "Nyah Dominguez"
-  },
-  {
-    "First": "Derick Dizon",
-    "Second": "Psalm Masaya"
-  },
-  {
-    "First": "Rapha Felipe",
-    "Second": "Marytonae Sanchez"
-  },
-  {
-    "First": "Manny Fuentes",
-    "Second": "Kristine Tapia"
-  },
-  {
-    "First": "Kyle Lin",
-    "Second": "Conner Manuel"
-  },
-  {
-    "First": "Archie Duque",
-    "Second": "Rigel Sison"
-  },
-  {
-    "First": "Kathryn Balingit",
-    "Second": "Kyra Asprec"
-  },
-  {
-    "First": "Nathan Nakamitsu",
-    "Second": "Josh Fajardo"
-  },
-  {
-    "First": "Anatori Prieto",
+    "First": "Josh Fajardo",
     "Second": "Sheena Gonzalez"
   },
   {
-    "First": "Audrey Yue",
-    "Second": "Erika Pasia"
-  },
-  {
-    "First": "AJ Sales",
-    "Second": "Nikki Cosiquien"
-  },
-  {
-    "First": "Riana Patricia Lago",
-    "Second": "Isabella de Leon"
-  },
-  {
-    "First": "Camille Lagunzad",
-    "Second": "Annissa Deguzman"
-  },
-  {
-    "First": "Alvin Agatep",
-    "Second": "Justin Dela Cruz"
-  },
-  {
-    "First": "JR Puerto",
-    "Second": "Travis Reyes"
-  },
-  {
-    "First": "Jay Mantuhac",
-    "Second": "Joe Ignacio"
-  },
-  {
-    "First": "Aj Magsarili",
-    "Second": "Christal Ann Bermudez"
-  },
-  {
-    "First": "Ali Ongpin",
-    "Second": "Jezel Poliran"
-  },
-  {
-    "First": "Avery Perez",
-    "Second": "Amanda Calindas"
-  },
-  {
-    "First": "Ryan Nuqui",
-    "Second": "Seth Dumaguin"
+    "First": "Justin Dela Cruz",
+    "Second": "Emmuelle Ejanda"
   },
   {
     "First": "Geraldine Fabro",
-    "Second": "Wilson La"
+    "Second": "Kaitlin Corpus"
   },
   {
-    "First": "Fritzi Ledesma",
-    "Second": "Audrey Aniag"
+    "First": "Ryan Nuqui",
+    "Second": "Angelica Santos"
   },
   {
-    "First": "Emmuelle Ejanda",
-    "Second": "Kyle Andrei De Matias"
+    "First": "Psalm Masaya",
+    "Second": "Kyle Lin"
   },
   {
-    "First": "Sheena Dichoso Echano",
-    "Second": "Sam Tito"
+    "First": "Camille Lagunzad",
+    "Second": "Erika Pasia"
+  },
+  {
+    "First": "Marytonae Sanchez",
+    "Second": "Clara Isabel Lantin"
+  },
+  {
+    "First": "Aj Magsarili",
+    "Second": "Archie Duque"
+  },
+  {
+    "First": "Wilson La",
+    "Second": "Keziah Aurin"
+  },
+  {
+    "First": "Sam Tito",
+    "Second": "Christal Ann Bermudez"
   },
   {
     "First": "Hans Ollie Oberon H Ocampo",
-    "Second": "Kaitlin Corpus"
+    "Second": "Trish Nubla"
+  },
+  {
+    "First": "Joseph Casey",
+    "Second": "Kyle Andrei De Matias"
+  },
+  {
+    "First": "Ali Ongpin",
+    "Second": "John Bryant Pacleb Cadiz"
+  },
+  {
+    "First": "Rapha Felipe",
+    "Second": "AJ Sales"
+  },
+  {
+    "First": "Patty Natividad",
+    "Second": "Kristine Tapia"
+  },
+  {
+    "First": "Audrey Aniag",
+    "Second": "Annissa Deguzman"
+  },
+  {
+    "First": "Anatori Prieto",
+    "Second": "Nikki Cosiquien"
+  },
+  {
+    "First": "Nathan Nakamitsu",
+    "Second": "Kim Chua"
+  },
+  {
+    "First": "Rigel Sison",
+    "Second": "Gabby Africa"
+  },
+  {
+    "First": "Jay Mantuhac",
+    "Second": "Josh Bautista"
+  },
+  {
+    "First": "Kendal Asprec",
+    "Second": "JR Puerto"
+  },
+  {
+    "First": "Riana Patricia Lago",
+    "Second": "Mikee Martin"
+  },
+  {
+    "First": "Joanne Garcia",
+    "Second": "Amanda Calindas"
+  },
+  {
+    "First": "Michael Celebrado",
+    "Second": "Jezel Poliran"
+  },
+  {
+    "First": "Kyra Asprec",
+    "Second": "Audrey Yue"
+  },
+  {
+    "First": "Romy Mastel",
+    "Second": "Lauren Macasiljig"
+  },
+  {
+    "First": "CJ Hines",
+    "Second": "Isabella de Leon"
+  },
+  {
+    "First": "Seth Dumaguin",
+    "Second": "Joe Ignacio"
+  },
+  {
+    "First": "Avery Perez",
+    "Second": "Travis Reyes"
+  },
+  {
+    "First": "Annika Yu",
+    "Second": "Conner Manuel"
+  },
+  {
+    "First": "Andrew James Ortega",
+    "Second": "Manny Fuentes"
+  },
+  {
+    "First": "Alvin Agatep",
+    "Second": "Nyah Dominguez"
   }
 ]
