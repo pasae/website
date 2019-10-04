@@ -188,6 +188,33 @@ const availableTags = ['AEROSPC',
 const getReview = () => {
     const class_name = document.getElementById("className").value;
 
+    const temp_class = class_name.split(" ");
+    const input_class = []
+
+    // const classNumPattern  = "[A-Za-z0-9]+";
+
+    if (temp_class.length < 2) {
+        window.alert("Please input class number");
+        return; 
+    } 
+
+    if (!/[A-Za-z0-9]+/.test(temp_class[temp_class.length - 1])) {
+        window.alert("Please input class number");
+        return; 
+    }
+
+    let i;
+    for (i=0; i < temp_class.length - 1; i++) {
+        console.log(temp_class[i])
+        input_class.push(temp_class[i]);
+    }
+    const input_class_format = input_class.join(" ");
+
+    if (!availableTags.includes(input_class_format)) {
+        window.alert("Please follow the class format!")
+        return; 
+    }
+
     const url = `https://www.ocf.berkeley.edu/~pasae/flask/revs/${class_name}`;
 
     console.log(url);
@@ -231,6 +258,10 @@ const showClasses = (classes) => {
     cell4.innerHTML = "Comments";
     cell5.innerHTML = "Review By";
 
+    if (classes.length === 0) {
+        window.alert(`Sorry, we don't have any reviews for ${document.getElementById("className").value}`);
+        return;
+    }
 
     var rowNum = 1;
     for (i = 0; i < classes.length; i++) {
@@ -290,7 +321,32 @@ const sendReview = () => {
             return;
     }
 
-    console.log("I went through");
+    const temp_class = class_name.split(" ");
+    const input_class = []
+
+    // const classNumPattern  = "[A-Za-z0-9]+";
+
+    if (temp_class.length < 2) {
+        window.alert("Please input class number");
+        return; 
+    } 
+
+    if (!/[A-Za-z0-9]+/.test(temp_class[temp_class.length - 1])) {
+        window.alert("Please input class number");
+        return; 
+    }
+
+    let i;
+    for (i=0; i < temp_class.length - 1; i++) {
+        console.log(temp_class[i])
+        input_class.push(temp_class[i]);
+    }
+    const input_class_format = input_class.join(" ");
+
+    if (!availableTags.includes(input_class_format)) {
+        window.alert("Please follow the class format!")
+        return; 
+    }
 
     var form = new FormData();
     form.append("class", class_name);
@@ -308,7 +364,6 @@ const sendReview = () => {
     document.getElementById("student").value = "";
 
     var xhr = new XMLHttpRequest();
-    // xhr.withCredentials = true;
 
     xhr.addEventListener("readystatechange", function () {
     if (this.readyState === this.DONE) {
@@ -321,5 +376,8 @@ const sendReview = () => {
     xhr.open("POST", url);
 
     xhr.send(form);
+
+    const message = `Thank you, ${student} for your ${class_name} review!`
+    window.alert(message);
 
 }
