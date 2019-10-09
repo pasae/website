@@ -1,5 +1,6 @@
 window.onload = function addOption() {
 
+    // CHANGE THIS EVERY SEMESTER BASED ON ROSTER CLASSES
     const classes = ['AFRICAM 27AC', 'AMERSTD 191', 'ANTHRO 2AC', 'ANTHRO 3AC',
     'ANTHRO R5B', 'ARCH 11A', 'ARCH 171', 'ARCH 98', 'ASAMST 128AC',
     'ASAMST 132', 'ASTRON C162', 'ASAMST 198', 'ASTRON C10',
@@ -45,10 +46,8 @@ window.onload = function addOption() {
       x.appendChild(t);
       document.getElementById("mySelect").appendChild(x);
     }
-  
   }
   
-
 const getPeople = () => {
     const x = document.getElementById("mySelect").selectedIndex;
     const input = document.getElementsByTagName("option")[x].value;
@@ -79,7 +78,6 @@ const getPeople = () => {
 
 }
 
-
 const showPeople = (people) => {
     var table = document.getElementById("myTable");
 
@@ -88,8 +86,8 @@ const showPeople = (people) => {
     var cell2 = row.insertCell(1);
 
 
-    cell1.innerHTML = "Student" ;
-    cell2.innerHTML = "Email" ;
+    cell1.innerHTML = "<b>Student</b>" ;
+    cell2.innerHTML = "<b>Email</b>" ;
 
     var rowNum = 1;
     for (i = 0; i < people.length; i++) {
