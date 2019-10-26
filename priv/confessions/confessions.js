@@ -1,27 +1,15 @@
 confessions = [
-    'fucking travis man...',
-    'trish cute or whateva',
-    'can confirm Kendal is abusive',
-    "geraldine yoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooou rock",
-    "All of the interns are so hecking cool, I hope they all have a great time in the program this semester <3",
-    "alvin seems really sweet and cool....i hope to get to know him better this sem! (are you taken?)",
-    "Ok but Kendal and Mikee tho 👀",
-    "can i get a keth? can u make it wast fowevew :3",
-    "PASAE has some attractive people this year! Y'all are looking cute or whatevah ",
-    "if you’re looking for a sign, this is it. SHOOT YO SHOT. SHOOTERS SHOOT. MAKE THAT FRIEND. TALK TO THAT PERSON YOUVE BEEN EYE-ING. MAKE THINGS HAPPEN BECAUSE CLIMATE CHANGE IS REAL AND YOURE RUNNING OUT OF TIME😤😌",
-    "Love you, Travis",
-    "I love Hans, I'm glad he's still with us",
-    "Ayy Travis I see u at intercore 👀👀",
-    "its not about aj m and alvin ... everyones wack... travis is where its at",
-    "damn only core died during intercore. y'all are fucking disgraceful",
-    "Travis better make a move soon or ima swoop :P",
-    "kinda fucked up how PASAE has attractive people all of the sudden",
-    "seeing erika pour those big boi shots at intercore got me wanting to shoot My shot 😳", 
-    'I miss Jo',
-    "PASAE's really out here with all these fresh faces and active interns. 😌 Proud of y'all",
-    "when tf is Pas'D&D gonna happen",
-    "I miss Pa'Study but if y'all are bringing it back, don't have it in McCone please 🥺",
-    "Travis got all of these professionals in his DMs, but he's only looking for one👀"
+    'Damn, i c u ali',
+    'Ali being a tru CED student, out here laying foundations👀',
+    'Yo so why is Joe always on the tabling spreadsheet',
+    "Can we bring back Pas'rave? ",
+    "Wait omg, I would love to play D&D :0",
+    "i freakin love josh fajardo",
+    "Everybody is talking about the same people as last year. Can y'all come up with something else!!!",
+    "I should have joined PASAE",
+    "Real talk, Travis has really neat handwriting.",
+    "Booooooooo, I wanted a crew neck. ",
+    "i wanna get to know the new interns but i'm too pa'shy 😔"
 ]
 
 const autowrite = () => {
