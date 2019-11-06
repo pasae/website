@@ -1,15 +1,14 @@
 confessions = [
-    'Damn, i c u ali',
-    'Ali being a tru CED student, out here laying foundations👀',
-    'Yo so why is Joe always on the tabling spreadsheet',
-    "Can we bring back Pas'rave? ",
-    "Wait omg, I would love to play D&D :0",
-    "i freakin love josh fajardo",
-    "Everybody is talking about the same people as last year. Can y'all come up with something else!!!",
-    "I should have joined PASAE",
-    "Real talk, Travis has really neat handwriting.",
-    "Booooooooo, I wanted a crew neck. ",
-    "i wanna get to know the new interns but i'm too pa'shy 😔"
+    "I need Pas'gym to start already I haven't been to the RSF for months now",
+    "If you want us to talk about new people, give us something new to talk about 🤧",
+    "GET TO KNOW THE NEW INTERNS DON'T BE PA'SHY :D",
+    "Travis do it don’t be a bitch",
+    "Travis just shoot your shot bro",
+    "no one's ever at the esh space when i'm there 🥺",
+    "https://www.when2meet.com/?8331848-YjjEi",
+    "pas'rave? ",
+    "My staffer yells at me for just existing. My staffer is abusive. To clarify, this is a call for help. SAVE ME",
+    "Intern meetings are fun because I get to know everyone better and watch some folx flirt with each other for 1.5 hours <3 "
 ]
 
 const autowrite = () => {
