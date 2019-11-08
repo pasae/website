@@ -8,7 +8,8 @@ confessions = [
     "https://www.when2meet.com/?8331848-YjjEi",
     "pas'rave? ",
     "My staffer yells at me for just existing. My staffer is abusive. To clarify, this is a call for help. SAVE ME",
-    "Intern meetings are fun because I get to know everyone better and watch some folx flirt with each other for 1.5 hours <3 "
+    "Intern meetings are fun because I get to know everyone better and watch some folx flirt with each other for 1.5 hours <3 ",
+    "AJ S YOU GOT ME WEAK IN THE KNEES 😩💦"
 ]
 
 const autowrite = () => {
