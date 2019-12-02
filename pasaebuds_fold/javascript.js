@@ -7,12 +7,6 @@ function load() {
 	if (input == '' || input == " ") {
 		alert('Please put your name :)')
 	}
-	// var give = true;
-	// if (input == 'Let me in PASAE Seth') {
-
-	// 	input = 'Travis Reyes'
-	// 	give = false;
-	// }
 
 	input = input.toLowerCase();
 
@@ -21,9 +15,10 @@ function load() {
 	for (i = 0; i < myData.length; i++) {
 		if (myData[i].First.toLowerCase().includes(name[0])) {
 			pairs.push(myData[i]);
-		} else if (myData[i].Second.toLowerCase().includes(name[0])) {
-			pairs.push(myData[i]);
-		}
+		} 
+		// else if (myData[i].Second.toLowerCase().includes(name[0])) {
+		// 	pairs.push(myData[i]);
+		// }
 	}
 
 	if (pairs.length == 0) {
@@ -31,11 +26,6 @@ function load() {
 		return;
 	}
 
-	// if ('travis'.includes(name[0]) && give) {
-	// 	alert("Hello Travis. Your name is not on our record. It looks like you're not a member of PASAE. Please try again next semester.");
-	// 	alert("JK. Type: 'Let me in PASAE Seth' ");
-	// 	return;
-	// }
 
 	if (pairs.length == 1) {
 		if ((name.length == 1) && (pairs[0].First.split(" ")[0] == pairs[0].Second.split(" ")[0])) {
@@ -47,12 +37,14 @@ function load() {
 		// 	return;
 		// }
 	    if (pairs[0].First.toLowerCase().includes(name[0])) {
-	      alert("Hi " + pairs[0].First + ", Your PASAEBud is: " + pairs[0].Second);
+			console.log(pairs[0].First)
+	      alert("Hi " + pairs[0].First + ", Your PASAEBuds are: " + pairs[0].Second);
 	      return;
-	    } else if (pairs[0].Second.toLowerCase().includes(name[0])) {
-	      alert("Hi " + pairs[0].Second + ", Your PASAEBud is: " + pairs[0].First);
-	      return;
-	    }
+		} 
+		// else if (pairs[0].Second.toLowerCase().includes(name[0])) {
+	    //   alert("Hi " + pairs[0].Second + ", Your PASAEBud is: " + pairs[0].First);
+	    //   return;
+	    // }
 	}
 
 	if (pairs.length > 1) {
