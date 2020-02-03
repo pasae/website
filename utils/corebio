@@ -1,0 +1,24 @@
+coreInfo = [
+    {
+        name: 'Kathryn Balingit',
+        position: 'Internal Vice President',
+        bio: [
+            "Hello! I'm Kathryn Balingit, one of PASAE's Internal Vice Presidents, along with Mikee Martin. As IVPs, we manage the internship program by facilitating weekly meetings, including topics on professional development and technical workshops, creating the syllabus for our Field Studies course, and overseeing the events planned by the Internal Component. Outside of classes and PASAE, you can find me in Esh or the 7th floor of Davis Hall (I work for the Civil & Environmental Engineering Department!).",  
+            "I also really enjoy listening to new music and every weekend I look forward to listening to my Spotify Discover Weekly! Each week is new and different, and although some weeks aren't the best, I get to discover some up-and-coming and smaller artists. I'm always open to new music and TV shows, so please feel free to share your favorites! or if you just want to hang out! :)"
+        ], 
+        pronoun: 'she/her/hers',
+        funFact: 'I have donated over 4 feet of my hair to make wigs for kids!',
+        linkedin: 'https://linkedin.com/in/kathrynbalingit',
+        email: 'katmaebal@berkeley.edu',
+        img: 'img/team/3.jpg'    
+    }
+]
+
+
+const createHeadshot = () => {
+    for (let c in coreInfo) {
+        let core = coreInfo[c];
+        let {name, position, bios, pronoun, funFact, linkedin, email, img} = core;
+        
+    }
+}
