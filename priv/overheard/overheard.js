@@ -1,11 +1,4 @@
 overheard = [
-    "Wait what do you learn in Math 54? y = mx + b?",	
-    "To food: “Get in my ball” | Mikee",
-    `"I probably would've been a really good pole dancer as a child. I should've capitalized on that." | Audrey`,
-    "It depends if you shove the whole thing in your mouth | Camille",
-    `“I only go to my classes because of Camille” |	Audrey`,
-    `Let's play a game-- the minority loses! | if you know, you know`,
-    `Isang Bagsak? What is that, one clap? | one clap wonder`
 ]
 
 const autowrite = () => {
