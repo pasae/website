@@ -1,0 +1,118 @@
+data = [
+    {
+        "First": "Rigel Sison",
+        "Second": "Nyah Dominguez"
+    },
+    {
+        "First": "Travis Reyes",
+        "Second": "Annissa Deguzman"
+    },
+    {
+        "First": "Jo Apellanes",
+        "Second": "Jonel Guerrero"
+    },
+    {
+        "First": "Kyra Asprec",
+        "Second": "Aaron Valencerina"
+    },
+    {
+        "First": "JR Puerto",
+        "Second": "Conner Manuel"
+    },
+    {
+        "First": "Kathryn Balingit",
+        "Second": "Erika Pasia"
+    },
+    {
+        "First": "Andrew James Ortega",
+        "Second": "Josh Bautista"
+    },
+    {
+        "First": "Parkash Sidhu",
+        "Second": "Camillie Lagunzad"
+    },
+    {
+        "First": "Avery Perez",
+        "Second": "Angelica Santos"
+    },
+    {
+        "First": "Joanne Garcia",
+        "Second": "Emmuelle Ejanda"
+    },
+    {
+        "First": "Aj Magsirili",
+        "Second": "Therese Pamplona"
+    },
+    {
+        "First": "Joshua Fajardo",
+        "Second": "Ali Ongpin"
+    },
+    {
+        "First": "Patty Natividad",
+        "Second": "Kim Lionel Rivera"
+    },
+    {
+        "First": "Kyle De Matias",
+        "Second": "Lamuel Galang"
+    },
+    {
+        "First": "Christal Bermudez",
+        "Second": "Christian Nisperos"
+    },
+    {
+        "First": "Mikee Martin",
+        "Second": "Kamille Dyan Fernando"
+    },
+    {
+        "First": "Joseph Casey",
+        "Second": "Geraldine Fabro"
+    },
+    {
+        "First": "Soffia Bandril",
+        "Second": "Michael Celebrado"
+    },
+    {
+        "First": "Annika Yu",
+        "Second": "Wilson La"
+    },
+    {
+        "First": "Ryan Nuqui",
+        "Second": "Romy Mastel"
+    },
+    {
+        "First": "Noah Rumbaoa",
+        "Second": "Sheena Gonzalez"
+    },
+    {
+        "First": "Alvin Agatep",
+        "Second": "Mary Sanchez"
+    },
+    {
+        "First": "Audrey Yue",
+        "Second": "Joyce Talavera"
+    },
+    {
+        "First": "Rica Monis",
+        "Second": "Nikki Cosiquien"
+    },
+    {
+        "First": "Krystal Daksla",
+        "Second": "Isabella de Leon"
+    },
+    {
+        "First": "Kalani Alcala",
+        "Second": "Jezel Poliran"
+    },
+    {
+        "First": "Angelo Braganza",
+        "Second": "Manny Fuentes"
+    },
+    {
+        "First": "Psalm Masaya",
+        "Second": "Angelica Larraquel"
+    },
+    {
+        "First": "Gabby Africa",
+        "Second": "Amanda Calindas"
+    }
+]
