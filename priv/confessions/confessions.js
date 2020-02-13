@@ -1,4 +1,5 @@
 confessions = [
+    "Shoot your shot this valentines! You got this!"
 ]
 
 const autowrite = () => {
