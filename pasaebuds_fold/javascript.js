@@ -28,14 +28,14 @@ function load() {
 
 
 	if (pairs.length == 1) {
-		if ((name.length == 1) && (pairs[0].First.split(" ")[0] == pairs[0].Second.split(" ")[0])) {
-			alert("Please include your last name. We have more than one " + original + " in PASAE");
-			return;
+		//if ((name.length == 1) && (pairs[0].First.split(" ")[0] == pairs[0].Second.split(" ")[0])) {
+		//	alert("Please include your last name. We have more than one " + original + " in PASAE");
+		//	return;
+		//}
+		if (pairs[0].First.split(" ")[0] == pairs[0].Second.split(" ")[0]) {
+		 	alert("Please include your last name. We have more than one " + input + " in PASAE");
+		 	return;
 		}
-		// if (pairs[0].First.split(" ")[0] == pairs[0].Second.split(" ")[0]) {
-		// 	alert("Please include your last name. We have more than one " + input + " in PASAE");
-		// 	return;
-		// }
 	    if (pairs[0].First.toLowerCase().includes(name[0])) {
 			console.log(pairs[0].First)
 	      alert("Hi " + pairs[0].First + ", Your PASAEBuds are: " + pairs[0].Second);
