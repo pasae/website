@@ -8,10 +8,6 @@ data = [
         "Second": "Annissa Deguzman"
     },
     {
-        "First": "Jared Tating",
-        "Second": "Kendal Asprec"
-    }
-    {
         "First": "Jo Apellanes",
         "Second": "Jonel Guerrero"
     },
@@ -242,9 +238,5 @@ data = [
     {
         "First": "Amanda Calindas",
         "Second": "Gabby Africa" 
-    },
-    {
-        "First": "Kendal Asprec",
-        "Second": "Jared Tating"
     }
 ]
