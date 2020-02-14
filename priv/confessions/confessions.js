@@ -63,7 +63,11 @@ confessions = [
     "so is no one gonna mention all the drawn out sexual tension between core members ",
     "sending love n happiness to joanne bc she is so kind and i appreciate her!!! <3",
     "Travis, Wilson, Rigel. Jo, and Kendal can like get it.",
-    "Mikee badddddd thooooo"
+    "Mikee badddddd thooooo",
+    "I can’t believe wait for intercore!!! ",
+    "Travis tell us about ur tree trunk 🥰🥰🥰",
+    "Travis looking at Wilson some typa way 👀👀👀",
+    "nyah is soo cute aff!!"
 ]
 
 const autowrite = () => {
