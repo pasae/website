@@ -9,7 +9,8 @@ overheard = [
     '"laptop trackballs are like clits"',
     '"so you fucked up your own immune system"|joanne to ryan',
     'Dont put anything unnecessary-- like minors',
-    '"I have the hots for sexy grampa"'
+    '"I have the hots for sexy grampa"',
+    'I feel like Im above you.|Mikee"'
 ]
 
 const autowrite = () => {
