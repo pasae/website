@@ -1,5 +1,5 @@
 overheard = [
-    ['"*insert cancelled shit here*"', "probably rigel or wilson" ]
+    '"*insert cancelled shit here*"|probably rigel or wilson'
 ]
 
 const autowrite = () => {
