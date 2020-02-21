@@ -1,5 +1,15 @@
 overheard = [
-    '"*insert cancelled shit here*"|probably rigel or wilson'
+    '*insert cancelled shit here*|probably rigel or wilson',
+    '"I want the D👅👅💦💦"|Kendal',
+    '"Are you guys down to drink- I MEAN EAT?"',
+    '“I’d like the pad se ew” “Meat?” “Yes.”|hungry girl',
+    '"We walked so horses can run"',
+    '"Does everything in life have to have a purpose? "|Psalm walking home from mccone at 12:01',
+    '"*insert super mega cancelled shit here*"|literally anyone from Random House',
+    '"laptop trackballs are like clits"',
+    '"so you fucked up your own immune system"|joanne to ryan',
+    'Dont put anything unnecessary-- like minors',
+    '"I have the hots for sexy grampa"'
 ]
 
 const autowrite = () => {
