@@ -95,7 +95,8 @@ confessions = [
     "can geraldine step on me with her timbs",
     "i love going to meetings everyone out here lookin yummy!!!!!!",
     "who committed paamcest in kappa?",
-    "pasae pussy on a different level"
+    "pasae pussy on a different level",
+    "Wilson is a rat but he's cute, I'm MAD that I love this dude's personality"
 ]
 
 const autowrite = () => {
