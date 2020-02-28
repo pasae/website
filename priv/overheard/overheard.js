@@ -10,7 +10,26 @@ overheard = [
     '"so you fucked up your own immune system"|joanne to ryan',
     'Dont put anything unnecessary-- like minors',
     '"I have the hots for sexy grampa"',
-    'I feel like Im above you.|Mikee"'
+    'I feel like Im above you.|Mikee"',
+    "There's a reason winner and weeb start with the same letter",
+    "Eyes are stronger than I thought.|Jo" ,
+    "Did you know that Jose Rizal was 5\'4\" ? That king...",
+    'Person 1: "Rihanna lives in Bel Air." Person 2: "Rihanna is Filipino?!?!"|Mikee',
+    "I like intercores, they're like catalysts for change",
+    "UGH I love him with my whole heart",
+    "He's cute but isn't he gay?",
+    "We do everything hard.|Joanne",
+    "I have thoughts|psalm",
+    '“name three facts about yourself” “I went to the gym. I like shaming people. And I dislike wearing clothes.”|Kendal 2020',
+    "Well if I had to choose, I'd sit on Rigel's face",
+    "Consent shouldn't be consensual.| Audrey A.",
+    "No one will know the size by tasting it. 🙂",
+    "*while mixing lumpia filling* that’s what good pussy sounds like|Audrey",
+    "Don't be too generous with the meat.|Wholesome King",
+    "'He seems like the type to like white'|Camille",
+    "There\'s like grown-up women in data science, and then there\'s me - WOOOO\" *waves arms around*|Mikee",
+    "I don't like the nuts!😉|Sheena",
+    "Pregnant women are fat|someone in PASAE"
 ]
 
 const autowrite = () => {
