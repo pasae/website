@@ -29,7 +29,27 @@ overheard = [
     "'He seems like the type to like white'|Camille",
     "There\'s like grown-up women in data science, and then there\'s me - WOOOO\" *waves arms around*|Mikee",
     "I don't like the nuts!😉|Sheena",
-    "Pregnant women are fat|someone in PASAE"
+    "Pregnant women are fat|someone in PASAE",
+    "What's 8 plus 2? -- 0!",
+    "There’s no time to DoorDash, can I just eat your pussy?",
+    "“I hate it all your fucking weeb music are bops”|iykyk",
+    "Dont worry guys, with me on your Jeopardy team, we'll win for sure!",
+    "Don't worry guys, with me on your Jeopardy team, we'll win for sure!|Mikee, right before earning the team negative points",
+    "Did they ask to bite?",
+    "If corona hits Berkeley, can we have a forever intercore at someone's place?",
+    "*talking about a guy people find cute* 'Wait, do you pity him ?'|your friendly neighborhood boy",
+    "Do you believe in women's suffrage?|Mikee",
+    "I can't compete with people who read!|PAS'Spelling Bee",
+    "Don't do drugs|- best girl",
+    "Honestly Joyce, I  didn’t think you were full Filipino|Mikee",
+    "You seemed so fresh meat to me - too hyper and did too much|Mikee@Joanne",
+    "“A little ditzy, but I fuck with it. She’s hella funny!”|Joyce @ Mikee",
+    "Damn she cool. Ig she dances and shit but also, she hella well-rounded|Joyce@Joanne",
+    "“Honestly don’t remember... You were really koreaboo” (first impression)|Joanne @ Mikee",
+    "“A little ditzy, but I fuck with it. She’s hella funny!”|Joyce @ Mikee",
+    "That's my daddy!|Travis",
+    "college of engineering and design|joanne",
+    "First time me and Psalm were on the same wavelength|Joanne 3/5/2020"
 ]
 
 const autowrite = () => {
