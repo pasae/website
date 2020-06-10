@@ -3,7 +3,9 @@
 THIS FILE USES PHPMAILER INSTEAD OF THE PHP MAIL() FUNCTION
 */
 
-require 'PHPMailer-master/PHPMailerAutoload.php';
+namespace MyProject;
+use PHPMailer\PHPMailer\PHPmailer
+require 'PHPMailer/vendor/autoload.php';
 
 /*
 *  CONFIGURE EVERYTHING HERE

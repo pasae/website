@@ -3,8 +3,9 @@
 THIS FILE USES PHPMAILER INSTEAD OF THE PHP MAIL() FUNCTION
 AND ALSO SMTP TO SEND THE EMAILS
 */
-
-require 'PHPMailer-master/PHPMailerAutoload.php';
+namespace MyProject;
+use PHPMailer\PHPMailer\PHPmailer
+require 'PHPMailer/vendor/autoload.php';
 
 /*
 *  CONFIGURE EVERYTHING HERE
