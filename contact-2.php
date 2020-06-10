@@ -5,7 +5,9 @@ THIS FILE USES PHPMAILER INSTEAD OF THE PHP MAIL() FUNCTION
 
 namespace MyProject;
 use PHPMailer\PHPMailer\PHPmailer;
-require 'PHPMailer/vendor/autoload.php';
+require 'src/PHPMailer.php';
+require 'src/SMTP.php';
+require 'src/Exception.php';
 
 /*
 *  CONFIGURE EVERYTHING HERE

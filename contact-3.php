@@ -5,7 +5,9 @@ AND ALSO SMTP TO SEND THE EMAILS
 */
 namespace MyProject;
 use PHPMailer\PHPMailer\PHPmailer;
-require 'PHPMailer/vendor/autoload.php';
+require 'src/PHPMailer.php';
+require 'src/SMTP.php';
+require 'src/Exception.php';
 
 /*
 *  CONFIGURE EVERYTHING HERE
