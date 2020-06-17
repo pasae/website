@@ -14,7 +14,7 @@ require 'PHPMailer/src/Exception.php';
 */
 
 // an email address that will be in the From field of the email.
-$fromEmail = 'noreply@pasae.berkeley.edu';
+$fromEmail = 'pasae.noreply@gmail.com';
 $fromName = 'PASAE Website Contact Form';
 
 // an email address that will receive the email with the output of the form
@@ -26,9 +26,9 @@ $subject = 'New message from contact form';
 
 // smtp credentials and server
 
-$smtpHost = 'smtp.ocf.berkeley.edu';
-$smtpUsername = 'noreply@pasae.berkeley.edu';
-$smtpPassword = 'pingig12';
+$smtpHost = 'smtp.ocf.berkeley.edu;smtp.gmail.com';
+$smtpUsername = 'pasae.noreply@gmail.com';
+$smtpPassword = 'QBsPT!PMN4%X#F';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
