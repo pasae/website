@@ -97,6 +97,9 @@ try {
     
     //Set the encryption system to use - ssl (deprecated) or tls
     $mail->SMTPSecure = 'tls';
+
+    //Set the authentication type
+    $mail->AuthType = 'LOGIN';
     
     //Whether to use SMTP authentication
     $mail->SMTPAuth = true;
