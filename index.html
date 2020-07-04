@@ -474,8 +474,11 @@
 		
 		<script type="text/javascript">
 			$(window).on('load',function(){
-				$('#blm').modal("show");
+				setTimeout(function() {
+					$('#blm').modal('show');
+				}, 1400);
 			});
+			// ONCE A SESSION functionality is currently being implemented.
 			// $document.ready(function() {
 			// 	if (!sessionStorage.getItem("done")) {
 			// 	// setTimeout(function() {
