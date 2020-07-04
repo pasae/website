@@ -75,11 +75,14 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="priv/private_front.html">Log In</a>
+			  </li>
+			  <li class="nav-item">
+                <a class="nav=link" href="#blm" data-toggle="modal">BLM</a>
               </li>
 	          </ul>
 	        </div>
 	      </div>
-	    </nav>
+		</nav>
 
 
 		<!-- Banner -->
@@ -399,6 +402,56 @@
         </div>
 </footer>
 
+<div class="portfolio-modal modal fade" id="blm" tabindex="-1" role="dialog" style="display: none;" aria-hidden="true">      
+	<div class="modal-dialog">
+		  <div class="modal-content bg-dark text-white">
+			<div class="close-modal" data-dismiss="modal">
+			  <div class="lr">
+				<div class="rl"></div>
+			  </div>
+			</div>
+			<!-- CAROUSEL functionality is currently being implemented. -->
+			<!-- <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+				<ol class="carousel-indicators">
+				  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+				  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+				</ol>
+				<div class="carousel-inner">
+				  <div class="carousel-item active"> -->
+					<div class="container">
+						<div class="row">
+						  <div class="col-lg-9 mx-auto">
+						  <!-- <div class="mx-auto"> -->
+							<div class="modal-body">
+							  <!-- Project Details Go Here -->
+							  <h1 class="text-uppercase">PASAE stands in solidarity with the black community.</h1>
+							  <br>
+							  <img alt class="img-fluid d-block mx-auto" 
+								  src="https://instagram.fmnl6-2.fna.fbcdn.net/v/t51.2885-15/e35/102698059_892514461232361_9169911349950331180_n.jpg?_nc_ht=instagram.fmnl6-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=0BDQWqjNnSgAX9peuSW&oh=fee2d34a043df6bb3a54feb3a3bcf823&oe=5F2130D5" 
+								  width="500" height="500">
+							  <p class="item-intro">
+								  Access the Pilipinx Community statement and resources <a href="https://tinyurl.com/blacksolidarity-pil/">here.</a>
+							  </p>
+							</div>
+						  </div>
+						</div>
+					  </div>
+				  </div>
+				  <div class="carousel-item">
+				<!-- </div>
+				<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+				  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+				  <span class="sr-only">Previous</span>
+				</a>
+				<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+				  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+				  <span class="sr-only">Next</span>
+				</a>
+			  </div> -->
+		  </div>
+		</div>
+  </div>
+
 
 
 
@@ -417,18 +470,33 @@
 
 		<!-- Bootstrap core JavaScript -->
 	    <!-- <script src="vendor/jquery/jquery.min.js"></script> -->
-	    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+		<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 	    <!-- Plugin JavaScript -->
-	    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+		<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+		
+		<script type="text/javascript">
+			$(window).on('load',function(){
+				$('#blm').modal("show");
+			});
+			// $document.ready(function() {
+			// 	if (!sessionStorage.getItem("done")) {
+			// 	// setTimeout(function() {
+			// 	// 	$('#blm').modal('show');
+			// 	// }, 1400);
+			// 	$('#blm').modal("show")
+			// 	}
+			// 	sessionStorage.setItem("done", false);
+			// });
+		</script>
 
 	    <!-- Contact form JavaScript -->
 	    <!-- <script src="js1/jqBootstrapValidation.js"></script> -->
 	    <!-- <script src="js1/contact_me.js"></script> -->
 
 	    <!-- Custom scripts for this template -->
-	    <script src="js1/agency.min.js"></script>
-
-
+		<script src="js1/agency.min.js"></script>
+		
 	</body>
+
 </html>
