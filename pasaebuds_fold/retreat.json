@@ -1,0 +1,62 @@
+data = [
+    {
+        "First": "Ali Ongpin",
+        "Second": "Ali (Fall 2018) - I hope to gain more leadership experience and learn more about how I can prepare for my future (interviews, resume making, etc). I hope to develop a sense of family and friendship among my peers and be able to serve the community and help PASAE grow!"
+    },
+    {
+        "First": "Anatori Prieto",
+        "Second": "Ana (Fall 2018) - I hope to get closer to the PASAE community and make new friends! I also want to learn from the PASAE core members and get advice on life at Berkeley."
+    },
+    {
+        "First": "Angelo Braganza",
+        "Second": "Angelo (Spring 2020) - I want to be involved with the Pilipinx STEM community at Cal through PASAE. The Core and veteran members seem very close and kind to one another, while also helping each other develop professional skills and establish networking and career opportunities. As a result, I believe serving as an intern will help me develop these skills and help me be successful during my time at Cal and in the future."
+    },
+    {
+        "First": "Annissa Deguzman",
+        "Second": "Annissa (Fall 2019) - Not only do I aim to make new friendships, I'd love to gain professional/technical skills in terms of networking and guidance on my career path, as well as receive academic support/advice in terms of what I want to do after graduating."
+    },
+    {
+        "First": "Audrey Aniag",
+        "Second": "Audrey (Fall 2018) - I want to develop strong friendships and connections with others as well as experience in an Pilipinx organization. Also, I would like mentorship to help with my college journey."
+    },
+    {
+        "First": "Avery Perez",
+        "Second": "Avery (Fall 2019) - By joining the PASAE internship program, I hope to gain a wide variety of connections within the Berkeley Pilipinx community, meeting many fun-loving people that share similar cultural backgrounds. In addition, I hope to use this position as a stepping stone into a full-time core member in the future. As an aspiring Berkeley engineer and a passionate Filipino-American, I am certain that PASAE is an organization that I belong in."
+    },
+    {
+        "First": "Camille Lagunzad",
+        "Second": "Camille (Fall 2018) - Through the PASAE internship program, I hope to be able to develop a deeper relationship with the Pilipinx community at cal. I would also like to find/help others find more opportunities for Filipinos in STEM."
+    },
+    {
+        "First": "Conner Manuel",
+        "Second": "Conner (Fall 2019) - Personal and professional development, communication and technical skills, networking opportunities, and a community of like-minded Filipinxs, looking back at our heritage and looking forward into our future in STEAM fields."
+    },
+    {
+        "First": "Gabby Pua",
+        "Second": "Gabby (Fall 2019) - By joining PASAE internship program, I’m able to gain real life experience- something that isn’t as focused on in Berkeley academics. Moreover, I would be able to connect with unique individuals who all have special stories but are united in their desire to learn and grow. Thus, by joining PASAE internship program, I’m hoping to find a community where I’m able to find a balance between fun, work and family."
+    },
+    {
+        "First": "Joshua Bautista",
+        "Second": "Josh (Fall 2019) - There's a lot I hope to gain by joining the PASAE internship program. For one, it inserts me in this community where I can meet a lot of new people and establish lifelong connections and relationships. Along the way, I know that I'll learn many new things and the experiecnes I have here will guide me throughout the rest of my life. Also, I am looking forward to gaining a lot when it comes to my professional development, as I believe this group provides a lot of resources and opportunities to equip me with the knowledge and skills necessary to succeed in my career way after my college days are done. Finally, I hope to grow as a person with this group and work on becoming a better leader and innovative thinker."
+    },
+    {
+        "First": "Justin Robin Puerto",
+        "Second": "JR (Fall 2016) - In the PASAE internship program, I hope to gain insight into my opportunities as a Bioengineer and gain some mentoring as to how to balance the busy life of a Berkeley student. Most of all, however, I'm looking to build a stable support system."
+    },
+    {
+        "First": "Manny Fuentes",
+        "Second": "Manny (Fall 2019) - I want to be a part of something bigger while also growing my resume. Being a part of the Filipinx community and family has been absolutely amazing and I can see myself staying and growing with it."
+    },
+    {
+        "First": "Monique Cosiquien",
+        "Second": "Nikki (Fall 2019) - I hope to gain a family in a large campus like Berkeley as well as professional development."
+    },
+    {
+        "First": "Travis Reyes",
+        "Second": "Travis (Fall 2018) - I hope to improve my professionalism and networking skills as I join the PASAE Internship program. To be honest, I came from a very small community and high school in the Bay Area where there weren't much opportunities for me to practice those skills that I have mentioned. Also, I hope to get along with the PASAE family and I'm looking forward for a fun and meaningful experience in Berkeley with this organization."
+    },
+    {
+        "First": "Wilson La",
+        "Second": "Wilson (Spring 2019) - I hope to find and contribute to a community that is mutually supportive of every member's goals and aspirations."
+    }
+]
