@@ -1,4 +1,9 @@
 overheard = [
+    "Come over, we have vodka|Camille",
+    "*spanks fridge* \n\ \"Aw yeah you like that, fridge?\"|Audrey A",
+    "*singing Do I Wanna Know* \n \"Have you got color in your cheeks?\" \n \"No cause I'm brown\" ",
+    "I like my men like I like my tofu- brown and in my mouth|Audrey A",
+    "He's a hot dad|AudreyA",
 ]
 
 const autowrite = () => {
