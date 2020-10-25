@@ -1,4 +1,9 @@
 overheard = [
+    "Camille: \"It's scary\" \n Audrey: \"No he's a sexy lizard man\"",
+    "Do you want me to just shove the meat in there?|Camille",
+    "He's not thick he's long|Camille",
+    "\"Drew Seeley said. Fuck the PO-lice.\"|Audrey",
+    "I'm definitely down to get my booty tickled|Ryan S.",
     "Come over, we have vodka|Camille",
     "*spanks fridge* \n\ \"Aw yeah you like that, fridge?\"|Audrey A",
     "*singing Do I Wanna Know* \n \"Have you got color in your cheeks?\" \n \"No cause I'm brown\" ",
