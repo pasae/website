@@ -70,6 +70,7 @@ confessions = [
     "Waiting for the cute guy who's a 10 to shoot his shot at me ",
     "where'stheconfessionsdroppleaseineedtoseeitlol"
 ]
+
 const autowrite = () => {
     let confessionsToPost = '';
 
