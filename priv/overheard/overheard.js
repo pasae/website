@@ -1,4 +1,7 @@
 overheard = [
+    "I put the pee in depression|Camille",
+    "God I spit everywhere, I'm such a whore|Audrey",
+    "I need to be surrounded by J's because I'm a big pp|Audrey",
     "Camille: \"It's scary\" \n Audrey: \"No he's a sexy lizard man\"",
     "Do you want me to just shove the meat in there?|Camille",
     "He's not thick he's long|Camille",
