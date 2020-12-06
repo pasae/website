@@ -1,67 +1,114 @@
 confessions = [
-    "just a reminder that you are doing great and i am so proud of you! :) we are almost done with the sem, you got this! also feel free to reach out to anyone in pasae, esp core, we love you sm u dont even know!! ",
-    "imma say it... pasae>>paa. like we got a discord , an active gc, and some lit socials. much love to paa but they need to step up their game 😤 ",
-    "i need some more drama in my life, can core add a jaguar karaoke channel to the discord pls",
-    "\"doshite rigel kaichou no koe make watashi no kokoro go ippai doki-doki?? itai yo . . . demo kimochii desu σ(≧ε≦σ) ♡  senpai!! anatta no koe hontou daisuki!!!! 	☆⌒ヽ(*'､^*)chu\"",
-    "Y'all need to stop asking me about my core position!! I'm a bottom!!!!!",
-    "everyone asking WHERE is To All Deboys I've Loved Before 2, never HOW is To All Deboy's I've Loved Before 2 😔😞",
-    "ngl i still think about that missed connections berkeley confession like twice a week. please writer show yourself so i can beat your ass",
-    "¿Puede el presidente Riggel grabar algo de ASMR? Estoy tan cachondo, oh Dios mío",
-    "Come on and Pslam and welcome to the jam",
-    "My hands are so cold.. I wish Manny were here to warm them with his flaming hot bars 🥵",
-    "Its so hard coming up with confessions when im so busy being so dummy thicc all the time! Cant carry pasae when i got my hands full carrying this dumptruck wagon from my bed to the polls!",
-    "i would like to be looked at disrespectfully please and thank you <3 ",
-    "what if we all got tested and then went on retreat ",
-    "Imagine Psalm reading you a bedtime story and sitting by your side until you fell asleep 😳",
-    "Miss Ali Ongpin hand in marriage please I am free Thursday if you are available to marry me ALi I will be available Thursday night waiting for your hand in marriag",
-    "just saw #bot-commands are y'all good?????",
-    "can everyone please hang out in the discord more often i'm so lonely",
-    "y’all aren’t posting confessions smh stop being shy here’s a REAL confession: there’s something viscerally horny about Avery and Angelo and tbh i kinda vibe w it ",
-    "JR u were in my BL dream last night 😩🙊",
-    "i can’t tell if manny is a top or a bottom but at this point I’m too afraid to ask ",
-    "I’d let Conner tie me up",
-    "Wilson i will drink your bath water ",
-    "who tryna pas’moke🙈 socially distanced or over zoom LMK - Annissa",
-    "yall need to stop being pas'shy and join discord calls ESPECIALLY INTERNS",
-    "thank you audrey (and wellness component) for checking in and taking care of us! you are the embodiment of warmth and comfort, we love u ",
-    "i swear WHOMST EVER is making these advances at G.F. yall better square up and C O N F E S S , instead of playing with her heart SHOW YOURSELF !!!",
-    "i am genuinely curious about what goes on in manny’s head and what his thought process is like. he’s brilliant but also very random ?? all the projects he puts out are amazing but also how does he think of this stuff ??? references: bravis + JR songs 😩😩",
-    "josh b is best boi",
-    "I want wilson to break my back. Snap me in half like a glow stick 😩",
-    "manny’s music taste is immaculate... i have a fat crush LMAO",
-    "Wholesome confession: I honestly wish I could get to know everyone more but I'm just so busy with academia, I barely have time to take care of myself :(",
-    "wow ok sorry i don't post confessions anymore i go to therapy now",
-    "I didn't know Psalm could snowboard. That's hot.",
-    "I think people who find snowboarders hot are beautiful. <3",
-    "Fritzi, come back to PASAE",
-    "We need more bondings so we can create spicier confessions",
-    "it's always \"audrey where's the next confession fanfic\" never \"audrey here's $1000 please step on me\" and personally i think that this is very unfair ",
-    "OK but why does Rigel have divorced dad energy highkey does someone wanna fill me in on something",
-    "\"am i the only one with no relationship experience\" -> hell👏no👏comrade👏pasae👏virgins👏rise👏up👏",
-    "I'm always ready to get down for the veterans 🚩🚩",
-    "Oooo, Manny's 🍆 is big, I just know it 😏",
-    "Lay that worm on me,  Daddy Travis plssss",
-    "I would come to PAS'Squats just to see Josh's fine 🍑",
-    "Conner is the only tree I wanna climb ",
-    "Gelo, I lied to you. It me. ",
-    "Romy, peg me too pls",
-    "Angelo B. I heard you won championships in polo. You can take a dive in my pool and I'll play with your pole 👅",
-    "AB, I heard you like BLs. Let's start one together ;) ",
-    "I am literally so tired all the time and I just wanna go back to when I could just go to a PASAE party and have a core member take me home to rail me so hard I can't thinnk after 🥴🥴",
-    "I want Wilson to h*ld my h*nd 🙈",
-    "Really hoping that we all meet in person before the school year ends so y'all can shoot your shots... It can't be healthy to just post it on Confessions without acting on it",
-    "The PAS'exual tension in this club 😳",
-    "manny bad af ;))",
-    "y'all gotta stop being pas'hy - manny",
-    "manny got mad potential tbh",
-    "john frias and michael balasbas are cute",
-    "I ship A with C",
-    "I’d let Wilson smoke me out ;)",
-    "ugh papi Josh B plz rail me in both holes 🥺",
-    "Even though you're not my first, you can be my last 😍",
-    "a guy who can pull off a suit though 🤤 don't second guess yourself, this is directed towards you hehe",
-    "when we meet in person I want a hug that lasts a lil too long for it to be between friends ",
-    "we can take it slow"
+    "Okay but like.... I've been shipping Anissa and Rigel for so long",
+    "i’m so grateful for my interns! even if we don’t meet up often they’re such a blessing in my life :)",
+    "dhdjhfjdjrktnKs i have thought rigel was cute ever since i joined this damn club but i think i will just let it gooooo",
+    "I just KNOW Anatori's strap would make me see God",
+    "Both Audreys running confessions and overheard respectively, we love to see it!!!!!!!",
+    "OK real talk, im glad i was able to become closer friends with someone new over discord thanks to pasae",
+    "I second the retreat confession lets go on a retreat I need to get out of the house and I wanna vibe with y'all 🥺 Pa'snow in Tahoe anyone?",
+    "y'all are too horny for your own good we need a single in pasae gc already so everyone can get cuffed (including me skskskks)",
+    "I just wanna see who complimented my music taste, listen to endless w me on disc please - manny",
+    "whoever called my ass fat can come see it -josh",
+    "gabby kinda bad",
+    "interns better step up and become friends with each other. i know its hard when you dont know anyone, but honestly, you wont know whatll happen until you take that first step. go send that text to that person you think is cool. its worth it, trust.",
+    "where the interns at. im tryna be friends",
+    "Can we have another social so we can create some ACTUAL pas'spicy confessions???",
+    "Everyone should join Berkeley Dating and find as many pasae members as they can",
+    "Omfg idk if you’re dropping hints or I’m self absorbed but keep it going because it makes me go wild you don’t even know ",
+    "HI YOU ARE SO FKING CUTE YOU ARE EVERYTHING I WANT IN A GUY MARRY ME",
+    "oh my God, I think I'm in love with you",
+    "we'd look so good together ",
+    "\"We need more bondings so we can create spicier confessions\" YESSS NO CAP",
+    "you found the way to my heart holy fk",
+    "not gonna lie i could really go for some wet ass pasae rn",
+    "\"after summer i met you through the wires \nbeneath the orange sky and the raging fires \ni didnt know you then when we watched it all burn \nbut in our digital world id come to learn \ni feel it electric our connection in code \nour sly moments of levity lighten my load \nthrough my identical days and filtered blue light \nyour voice writ in pixels got me feeling all right \nwell ive been here before and i wont ask for much \nbut in the grey weekends i dream of your touch \nto see you in person like im someone new \nthen id end up confessing my feelings for you\n\"",
+    "OK does Josh B cook cause I would like my turkey stuffed 😳",
+    "My staffer is literally the sweetest tho I appreciate you king 😩💗💗💗",
+    "Did you ever hear the tragedy of Darth Alabaster de Boy? I thought not. It’s not a story that Core would tell you. It’s a PASAE legend. Darth Alabaster was a Dank Lord of the Simp, so powerful and so wise he could use the Intercore to influence the pas'aedkicks to create confessions… He had such a knowledge of the dank side that he could even keep the ones he cared about from simping. The dank side of the Intercore is a pathway to many abilities some consider to be unnatural. He became so powerful… the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice wormed him in his sleep. Ironic. He could save others from simp, but not himself.",
+    "I want Romy to beat the shit out of me.",
+    "1\nthe fucking coconut song they posted on the discord has been stuck in my head im literally so mad",
+    "PCN is just gonna be PASAE screaming out the bird dialogue in a voice channel to the sound of Audrey Y's melodica",
+    "if only you could see\nthe way i smile in my sleep, just knowing that you exist 🥺",
+    "A member of the CDC just called me personally and told me I need to isolate myself immediately because they found out one of the new symptoms of Coronavirus is being hot, having a great personality, and a big juicy ass. Send this to 5 hoes you think might be infected.",
+    "AYO every hint you’re dropping I NOTICE AND IT MAKES ME FEEL KILIG I- I cannot stop thinking about u",
+    "it's time for my semester break down, confessions about to be POPPIN",
+    "Manny’s thoughts: No thoughts, head empty ",
+    "I would let Jo and Rigel rail me completely and without hesitation. ",
+    "Wilson and Travis are the sweetest pair. I’d watch a video of you both in a hot tub 5 feet apart 🥰",
+    "I used to think that ****** was really annoying but I found out they were a complete sweetheart and I feel so bad now. ",
+    "Christian Nisperos seems so innocent that I kinda want him to choke me with some backshots ",
+    "please teach me how to use discord i just wanna vibe with everyone also dont forget to drink water i love yallllll",
+    "josh b looks so huggable like pls can u not",
+    "Which core member do you think is secretly into BDSM. My vote is Ana.",
+    "you inspire me to be as hardworking as you 🥺",
+    "annissa + ana, i appreciate you so much. i feel like you give out so much of yourself and i hope you’re taking care of yourself and your mental health. u deserve so much love and support i literally freakin love y’all <3",
+    "Ali, picturing you’re face brightens my day",
+    "I love you, core!!",
+    "Nikki would win if there was a core hunger games type battle",
+    "Travis, Wilson, and Rigel have my heart tbh ",
+    "Josh B is literally a teddy bear 👉👈",
+    "Wilson, ur cute ",
+    "I still ship those two core members 😜",
+    "im ready for that pas'dick ;p",
+    "need me sum tree trunks",
+    "pasae girls have me questioning my sexuality tbh and im here for it",
+    "romy senpai pls peg me ",
+    "ryan s pls make babies w me",
+    "i love you daddy ******!",
+    "i feel like conner would be a lovely partner (romantically or criminally)",
+    "C+N <3",
+    "i ship J and A hehe",
+    "I think R looks cute with K",
+    "Manny and Josh A together 4eva <3",
+    "yall too bootylicious im suffocating",
+    "dang that one core member with that dump truck a$$ got me in my feelz ",
+    "still waiting for ur feet pics....",
+    "When we met up in person I couldnt help but feel things I hope u feel the same ",
+    "id let sum yall gobble me swallow me oop ",
+    "I'm shooting my shot wish me luck!!!!",
+    "hey rigel are you looking for a first lady aha ha ",
+    "i feel like a lot of you are secretly thirsty",
+    "ya kno i refused to see it before bc he was younger, but manny mad fine like damn baby boy u cute",
+    "i belong to the religion of justin robin puerto",
+    "pasae is fun its filled with a buncha cute nerds i fw it ",
+    "id let josh a do things to me ",
+    "nikki pls peg me too",
+    "gabby is a literal goddess",
+    "hi avery i love u",
+    "Honestly from the very first meeting, i noticed you right away, your handsome face and your warm smile gravitated me to you instantly. I always light up when we talk. I try to keep it chill but deep down im freaking out because im so into you. I enjoy everything about you and find you hilarious but i could never say this to your face because i just have a feeling you won't feel the same. but then again i feel like there is a small chance that deep down you also feel the same. I know i keep contradicting myself, but hopefully if there is a chance between us at all, please give me a sign. my heart doesn't know what to do anymore, i just find you cute sir :)",
+    "yall sleeping on camille fr",
+    "rigel? more like my-gel ",
+    "\"i would like to be looked at disrespectfully please and thank you <3\"  -me too",
+    "RETREATTTTTT!",
+    "i enjoy pasae a lot thanks so much to all the core members and interns who made this sem great!",
+    "i just want to be choked out is that so hard??!!!!?!",
+    "Imagine how weird switching back to in-person would be like do we all just greet each other with a sloppy kiss and slap each other on our dump-truck asses, bc idk if I can handle that 🥴",
+    "i hope you nerds still hang out on the discord over break when i finally have the time and energy to bust out the Gamez",
+    "Shout out to core for making an online space that I really feel a part of! Even though I haven't been to enough meetings, I always feel seen and welcomed by the PASAE community <33",
+    "Pas’peg",
+    "HHHHGHGHH YALL GOTTA STOP IT WITH THESE CONFESSIONS PLEASE OH GOD OH FUCK IM GONNA YEARN 😩",
+    "Skskskkss I hate how I know for A FACT that one of y'all tryna shmash your intern 💀💀💀💀💀💀💀💀💀💀💀",
+    "Still waiting on Travis to return from the war",
+    "who ever wrote these new confessions will not be seeing the gates of heaven 😭",
+    "If y'all are tryna bring back pa'shipping pls be specific i'm tryna get on board 👀👀",
+    "COMMUNICATION IS KEY! Don't lose everything important like I did😥",
+    "i yearn for you like a lover would",
+    "CAN YOU BE NROMAL",
+    "\"I've been a fool, and you've been childish \nYou fell down, you got hurt chasing sweeter dreams \nNever could, hide the truth in your eyes \nThat's how I knew, that smile was a lie \n\n\"I love you\" is \nSomething you never say \nCouldn't get it out, always just pulled away \nSo then why, please won't you tell me why \nYou could find the words, to say goodbye \n\nI'm such a mess \nI'm lost, I'm no good at this \nI'm in love, still in love \nStill in love with you \nHard as I try \nCan't even drink this pain away \nMemories of you, twisting my view \nI've been a fool\"",
+    "No nut November is finally over.. Hope y'all got your horny out this round.....",
+    "\"the boy with the sad eyes.... \nI don't even know his name..... \nwhy do i want to meet him again?....\"",
+    "https://imgur.com/gallery/LKYza",
+    "who \nhttps://youtu.be/Z9G1Mf6TZRs",
+    "https://imgur.com/gallery/BSyU5qm",
+    "idk why but i just think wilsons shoes would smell nice",
+    "Your smiling face is just like a tiny star,\nI have been treasuring it ......\nI just held my tears of regret inside..\nI am still feeling the pain ..I won’t forget you...\nYour strong scent, I’m always....searching for it...\nCan you hear my voice calling out .... I love you so...\nWhere are you now?....",
+    "most of these aren't even real confessions you guys are just lonely",
+    "all htese pasae guys got such strong eboy energy like please for the love of god jsut put on aa made costume and put me out of my misery",
+    "hey\n\ntake it easy, I'm not going to bother you\n\nI already know that my luck has run out\nAnd I know there is a lot running through your mind rn\n\nyou know that\n\nours was just chance\nright person, wrong time\n\ndon't be afraid\ndon't worry\nI don't blame you for the past\n\nyou see....life is like this\n\nyou leave and I'll be here\nthe days will go by and I will no longer be yours.....\"\ni miss y'all can we all just hang out on roblox\n\"Through the sky I look for my star...\nI want to go up to the moon....\n\nIm sleepless\n\nthrough these streets hoping to find..\nthat angel voice that I want to love....\nWhere will they be?\n\nIm sleepless\n\nmy desire does not let me rest..\nBecause I wake up and I don't start crying.\n\nI will march on, awake and without love\"\n",
+    "Kung hindi mo mahanap ang mga dahilan upang manatili sa akin, bakit contintue?\n\nit is better to end as friends...\m\nWalang nangangatwiran sa buhay na ito na nagtitiis ng isang relasyon sa mga kasinungalingan.\n\nKung walang pag-ibig, please leave......\"\n\"Gusto ko lang sabihin sa iyo ang nararamdaman ko.\nKailangan mong maunawaan.\n\nHuwag kailanman susuko ka.\nHindi ka kailanman pababayaan.\nHuwag kailanman tatakbo sa paligid at iwan ka.\nHinding pilitin ka nang umiyak.\nHindi ako magpapaalam.\nHuwag kailanman magsasabi ng kasinungalingan at saktan ka.",
+    "i wonder how much psychic damage connor receives filtering these cursed ass confessions",
+    "I really thought that Confessions would be a cute and wholesome way to express our appreciation for one another....But it's just a platform for shitposts and horny people....",
+    "People out here on confessions crying about how they need a boo 😭 um have you considered the word of God maybe that's what you need 🙊 under the eyes of the Lord confess your sins 🙏"
 ]
 
 const autowrite = () => {
@@ -75,13 +122,16 @@ const autowrite = () => {
     for (let i in confessions) {
         const conf = confessions[i];
         const color = cardColors[cardNum];
+        var size = 'h5'
+        if (conf.length > 100) {
+            size = "h6" }
         let card = `
         <div class="col-md-4">
             <div class="card text-white bg-${color} mb-3" >
                 <div class="card-body">
-                    <h5 class="card-text">
+                    <${size} class="card-text">
                         ${conf}
-                    </h5>
+                    </v>
                 </div>
             </div>
         </div>`
@@ -93,6 +143,28 @@ const autowrite = () => {
             cardNum += 1;
         }
     }
+
+    // for (let i in confessions) {
+    //     const conf = confessions[i];
+    //     const color = cardColors[cardNum];
+    //     let card = `
+    //     <div class="col-md-4">
+    //         <div class="card text-white bg-${color} mb-3" >
+    //             <div class="card-body">
+    //                 <h5 class="card-text">
+    //                     ${conf}
+    //                 </h5>
+    //             </div>
+    //         </div>
+    //     </div>`
+    //     confessionsToPost += card;
+
+    //     if (cardNum == 2) {
+    //         cardNum = 0;
+    //     } else {
+    //         cardNum += 1;
+    //     }
+    // }
 
     document.getElementById("confessions").innerHTML = confessionsToPost;
 }

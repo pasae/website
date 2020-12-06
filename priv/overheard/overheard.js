@@ -12,6 +12,17 @@ overheard = [
     "*singing Do I Wanna Know* \n \"Have you got color in your cheeks?\" \n \"No cause I'm brown\" ",
     "I like my men like I like my tofu- brown and in my mouth|Audrey A",
     "He's a hot dad|AudreyA",
+    "ugh wish I had the guts to shoot my shot|someone who hates me and won't give me the drama I need to live",
+    "\"Junior Transfers.... an untapped population\" |skskskskksk",
+    "*Getting down to Panoramic*\n\"This is for the veterans\|Audrey Yue",
+    "\"Don't look at me mid-suck\"|Audrey",
+    "\"It doesn't matter. I still have the power of god and anime on my side\"|Camille",
+    "If someone gave me one pound of Reese's penis...",
+    "\"I ate an apple and I shit myself\"",
+    "\"I accidentally spit on my own choke\"|Audrey",
+    "\"What if I accidentally lick it while I'm sleeping\"|Audrey",
+    "\"Hisoka-chan, fight me ;P\"|Audrey",
+    "\"Oh my god am I clownsexual?\"|Audrey"
 ]
 
 const autowrite = () => {
