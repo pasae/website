@@ -1,16 +1,18 @@
 confessions = [
-    "Both audreys are so cute. Thank you for existing and being my sunshine in the rain my Tylenol when I’m in pain.",
-    "Michael is the only Florida Man for me.",
-    "I first met you last year in person and I thought we really vibed. You always made me smile when I saw you and I thought we could figure out what this was with time. But then Miss Rona hit and I wasn't able to see you so \"we\" just stopped. Valentine's Day got me thinking about you again...if I shoot my shot to see where this goes, would you say yes? - A pas'shy bear ",
-    "Ngl the girl who showed off her cats at the last PASAE Zoom seemed sweet. She was hella cute too so if you're single this Valentines day, give me a sign so I can treat you right",
-    "conner release the unfiltered cut!!!",
-    "I miss all of you <3",
-    "i love ur tiktoks hehe",
-    "what do i do if i have a crush on my staffer.....",
-    "ana is literally so powerful i would cri to have a chance w them",
-    "This one's for the boys with the booming' system",
-    "ummmmm i love creative component ",
-    "Hi my name is Audrey and it’s getting pretty hot so come thru, dm me, and shoot ur shot. Pls be sure to double check ur door lock bc with consent i can make ur bedrock "
+"Audrey can make my bedrock PLEASE",
+"jr just say something if you feel it too",
+"Camille is highkey kinda cute. ngl ",
+"do u guys think the white house does leadership retreats",
+"the things i would do for some of these pasae women / theys.....",
+"ryan s....don't be shy do u have a significant other....everyone wants to know.....",
+"one time i was cuddling w this guy and his heart was beating fast and i said hey why is ur heart beating so fast huh ;) and he said it was his anxiety ",
+"does anyone know if anissa is single jlaksdfdfgkjfdjs;",
+"Fuck, I've fallen so hard for you. ",
+"Honestly, the only reason why j wanted to learn to play League was to get closer to you.",
+"Hey Josh, I heard you play League. I can top your lane if you'd bottom for me 😜",
+"Ngl, Wilson is the sexiest rat I've ever seen",
+"Are staffers allowed to date interns? Gotta know for research. ",
+"for what its worth, I'm really happy to see pasae thrive in a pandemic. a lot of orgs, especially pil ones, seem so much smaller and less engaged now that everything is virtual. not saying pasae hasn't gotten smaller, but we still have so many awesome interns and core members who seem so engaged and happy to be apart of pasae. i really wish we could be vibing at intercores or on the glade, but we are making do with what we have :') (back to me drinking during pasae zoom events)"
 ]
 
 const autowrite = () => {
