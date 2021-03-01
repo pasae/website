@@ -49,7 +49,7 @@ function load() {
 		//}
 	    if (pairs[0].First.toLowerCase().includes(name[0])) {
 			console.log(pairs[0].First)
-	      alert("Hi " + pairs[0].First + ", Your PASAEBuds are: " + pairs[0].Second);
+	      alert("Hi " + pairs[0].First + ", Your PASAEBud is: " + pairs[0].Second);
 	      return;
 		} 
 		else if (pairs[0].Second.toLowerCase().includes(name[0])) {
