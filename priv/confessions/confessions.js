@@ -21,7 +21,16 @@ confessions = [
 "Violaine be my gamer girl gf ur so cool aha",
 "imagine the sexual tension we’ll have once we meet in person goshdamn ",
 "ur work ethic is literally so hot keep it up ",
-"PASAE is literally the best club ever <3 I can’t wait to meet y’all in person next semester"
+"PASAE is literally the best club ever <3 I can’t wait to meet y’all in person next semester",
+"Someone date somebody please im so bored",
+"I’m really grateful for all the workshops we’ve had this semester. It’s been encouraging my last 2 brain cells to keep it together",
+"hey Gelo, ur so fucking cute 🙈 wish you could see you from my pov 😜",
+"did yall know that if u have a crush on someone for > 4 months it's considered love :3",
+"the more i just observe you... I fall in love w u more lmao ugh i can't suppress my feelings anymore but i will ",
+"Shout out to all the interns for being such an engaged crowd this semester i want to french kiss all of you next intercore",
+"im such a hopeless romantic hahaha no one will ever know i have a crush on youuu bb",
+"damn papa you a rare breed, no comparing, and it's motherfucking scary, tryna keep him cause i found him, let a hoe know, i aint motherfuckin sharing!!!!!!!!",
+"pussy talented, it do cartwheels, and he pay cuz he like how that part feel, pussy give speeches heartfelt, said the pussy really talk like it garfield (it do!)"
 ]
 
 const autowrite = () => {
