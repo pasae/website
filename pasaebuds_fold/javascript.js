@@ -13,16 +13,17 @@ function load() {
 	var name = input.split(" ");
 	var i;
 	for (i = 0; i < myData.length; i++) {
-		if (name[0].length == 2) {
+		// if (name[0].length == 2) {
 			if (myData[i].First.toLowerCase().split(" ")[0] == (name[0]) || myData[i].Second.toLowerCase().split(" ")[0] == (name[0])) {
 				pairs.push(myData[i]);
 			} 
-		}
-		else{
-			if (myData[i].First.toLowerCase().split(" ")[0].includes(name[0]) || myData[i].Second.toLowerCase().split(" ")[0].includes(name[0])) {
-				pairs.push(myData[i]);
-			}
-		}  
+		// }
+		// else{
+		// 	if (myData[i].First.toLowerCase().split(" ")[0].includes(name[0]) || myData[i].Second.toLowerCase().split(" ")[0].includes(name[0])) {
+		// 		console.log('Name is ' + myData[i])
+		// 		pairs.push(myData[i]);
+		// 	}
+		// }  
 		//else if (myData[i].Second.toLowerCase().includes(name[0])) {
 		// 	pairs.push(myData[i]);
 		//}
@@ -32,7 +33,7 @@ function load() {
 	console.log(pairs)
 
 	if (pairs.length == 0) {
-		alert('Please check the spelling of your name');
+		alert('You can sign up for PASAEbuds in the form below to join next round! If you have already signed up, please check the spelling of your name.');
 		return;
 	}
 
@@ -48,7 +49,7 @@ function load() {
 		//}
 	    if (pairs[0].First.toLowerCase().includes(name[0])) {
 			console.log(pairs[0].First)
-	      alert("Hi " + pairs[0].First + ", Your PASAEBuds are: " + pairs[0].Second);
+	      alert("Hi " + pairs[0].First + ", Your PASAEBud is: " + pairs[0].Second);
 	      return;
 		} 
 		else if (pairs[0].Second.toLowerCase().includes(name[0])) {
@@ -72,7 +73,5 @@ function load() {
 			}
 	}
 }
-	//alert("Please include your last name. We have more than one " + original + " in PASAE");
-	//return;
 	
 }
