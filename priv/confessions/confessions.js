@@ -5,7 +5,6 @@ confessions = [
     "Hey Wilson I miss seeing you in 4k ultra HD where are you king", 
     "beef jerky the best munchie snack hear me out ", 
     "apply pressure. ", 
-    "apply pressure. ", 
     "have i really fallen for a person that I've only met online 6 months ago? idk why i'm like this, lol. help", 
     "hard to get more like hard to forget ugh", 
     "I admit it. Hes cute. His eyes twinkle like the stars. His lips are red and moist. His dark black hair is long and lush. He talks  as sweet as an angel. Hes smart. Even more smarter than me. He makes my heart race. Hes the only that always make me laugh and smile even if everything is going wrong. Just like an angel...", 
