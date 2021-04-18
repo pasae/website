@@ -1,16 +1,17 @@
 confessions = [
-    "hey, it’s me again. just got my second vaccine shot and it got me wondering what would happen if we gave us another shot. anyway, i hope ur doing well. u don’t have to respond. be safe",
-    "The next webmaster should start a pas' dating section, who's in?",
-    "This is my first confession! hi!",
-    "Do you think that when we go back to being in-person next year, we can all have a big group hug? I miss y'all",
-    "bring back pas'shipping",
-    "You see, I've been hurt, a lot. And I'm tired of always opening up and always being the one to make the jump, only to fall on my face and break my own heart. So yes, I'm scared. I'm scared to put my heart on the line again, after just barely picking up the pieces and putting them back together again.... and maybe it's too much to ask or childish of me.... but if there's something, anything, say it first, Take one step toward me, because I really can't take anymore breaks. ",
-    "Rigel , can we go on a date? pls . thx. C u at the next meeting . PS I saw u on tinder <3",
-    "Camille ",
-    "Camille...",
-    "Camillle?",
-    "Camille, you haven't responded to my text... ",
-    "Conner , let's be friends !"
+    "only pussies suppress their feelings SHOOT YO SHOT BB ", 
+    "omg I literally had a dream about u while I was falling asleep listening to a playlist dedicated to u HHAHAHA I think I’m gonna get my feelings hurt if ur not my soulmate ", 
+    "jr just tell themalready!!!!!", 
+    "Hey Wilson I miss seeing you in 4k ultra HD where are you king", 
+    "beef jerky the best munchie snack hear me out ", 
+    "apply pressure. ", 
+    "have i really fallen for a person that I've only met online 6 months ago? idk why i'm like this, lol. help", 
+    "hard to get more like hard to forget ugh", 
+    "I admit it. Hes cute. His eyes twinkle like the stars. His lips are red and moist. His dark black hair is long and lush. He talks  as sweet as an angel. Hes smart. Even more smarter than me. He makes my heart race. Hes the only that always make me laugh and smile even if everything is going wrong. Just like an angel...", 
+    "It’s April 1 but the only fool is me ", 
+    "why she hug her kuya like that😔😔😫", 
+    "i feel like we don’t acknowledge nor appreciate Camille’s humor enough ", 
+    "i swear if that core member doesn’t make a move on the other"
 ]
 
 const autowrite = () => {
