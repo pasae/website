@@ -1,37 +1,29 @@
 confessions = [
-    "i be pourin my heart out to my interns n they be like “___ loved a message” 😭😭liiike LETS BE FRIENDS",
-    "hello psalm i think i do not say this enough but you are so cool and funny and nice and i really appreciate u!! ily sm!! pls stay friends w me after u graduate aaa",
-    "psalm in pcn tho!! wooo congrats!! original music + ur voice <3 ",
-    "gerald u deserve all the love and happiness in the world!! wish i could express how much i appreciate u!! u are the sweetest and nicest <3 also congrats on graduation :'-) ",
-    "audrey yue ur hugs are great!!!! ",
-    "audrey is so funny and fun to be around! i am so glad you have another semester otherwise idk what i would dooo",
-    "y'all need to submit more confessions 😤 its been getting boring 😔 and its so much harder to suspect y'all for being horny & shit",
-    "shoot ur shot i wanna see some tea ;)",
-    "nyah is highkey cute and has an amazing personality I'd love to get to know her more 🥺",
-    "y'all saying shoot your shot but I've been friendzoned without even trying 😬",
-    "rigel... can i shoot my shoot or nah",
-    "like fr who else am i competing with for rigel . we need to talk ",
-    "i've never simped so hard for someone in my life. i'll tell u i love u once i meet you in person",
-    "josh b ur cute",
-    "i be pourin my heart out to my interns n they be like “___ loved a message” 😭😭liiike LETS BE FRIENDS",
-    "thank you core 33 and thank you interns, i’m so proud of each and every one of you, y’all make pasae one of my favorite spaces and i can’t wait to see you in the fall <3",
-    "omg nooo jr ur so sexy ",
-    "im vaccinated.... kiss me ",
-    "last batch of confessions better pop off ",
-    "internal is the sexiest component",
-    "external is the sexiest component",
-    "creative is the sexiest component",
-    "ily pasae",
-    "So who shot their shot I’m still curious",
-    "that one core member? yumm",
-    "WHY ARE YALL SO HOT",
-    "what if we kissed in the esh space? haha jk.... unless?",
-    "sign up for tabling next sem i’ll be waiting ",
-    "LOL that one intern who can’t stop gushing over their staffer :o",
-    "Camille your memes in the chat are great and I think you’re cute",
-    "my throat is bored",
-    "i miss you all",
-    "hi sir i like talking to you sir"
+    "ate ana is so cute !! <3",
+    "looking for a power bottom wya",
+    "reva ur so sweet :’)",
+    "let’s go michael",
+    "i hope we all have fun at pas’social",
+    "emmuelle i want the best in life for you <3",
+    "avery ur so swaggy xd",
+    "andrei’s really cool B)",
+    "therese you’re literally so funny i love your jokes so much",
+    "i like the sound of conner’s voice",
+    "ana i love you",
+    "ali i love you",
+    "wilson ur actually so sweet",
+    "kiana you have my heart",
+    "i think jared’s vibe is so cool",
+    "I want to be Gelo’s friend but i’m shy 👉👈",
+    "kaye i really really wanna be your friend",
+    "joyce is a literal goddess",
+    "Henzel is really nice!",
+    "I love all y’all freshman and sophomores i can’t to meet you all",
+    "emmmmuelllleeeee :)",
+    "reva has like a billion kapatids at this point",
+    "can pasae have a nightcore themed intercore",
+    "306 stand up",
+    "jared ur graphics are AMAZING !!!"
 ]
 
 const autowrite = () => {
@@ -47,7 +39,8 @@ const autowrite = () => {
         const color = cardColors[cardNum];
         var size = 'h5'
         if (conf.length > 100) {
-            size = "h6" }
+            size = "h6"
+        }
         let card = `
         <div class="col-md-4">
             <div class="card text-white bg-${color} mb-3" >
