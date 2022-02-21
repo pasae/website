@@ -1,5 +1,5 @@
 confessions = [
-  "hiiiii",
+  "i love swe",
     "a + j need to film a special video,,,,",
     "therese can I be u when i grow up 🥺 ",
     "anyone tryna shoot webs on me at no way home",
