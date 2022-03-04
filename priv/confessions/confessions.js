@@ -83,7 +83,8 @@ confessions = ["therese is so pretty pls on my knees rn",
 "matthew i didnt actually need data 8 hw help i just like u 😭",
 "jk i take it back",
 "pas'vegas anyone?",
-"daddy henzel 🥵😩"
+"daddy henzel 🥵😩",
+"i think therese is the most gorgeous woman ive ever seen"
 ]
 
 
