@@ -50,7 +50,18 @@ confessions = ["these confessions got weak after last month",
 "Everyone congratulate Noah for starting his Adult Job!!",
 "I hope all of you have a very nice summer",
 "I do be going through it",
-"i can not live, laugh, love in these conditions - emmuelle"]
+"i can not live, laugh, love in these conditions - emmuelle",
+"Manny ur literally so cute pls take me to spring banquet. Lol jk but we should hang out :))",
+"please stop leaving me on read, i am sensitive",
+"I have the memory of a goldfish, I don't remember confessions I've already sent askdfhak",
+"Excited to see who's in core 35!",
+"There should be a PASAE spotify blend",
+"The end of the semester is becoming the end of me",
+"at this point i am just vibing my way through life",
+"For no reason whatsoever, someone should suggest retail therapy options",
+"PASAE has been amazing this year. Excited for next year!",
+"Ana's gonna leave and i am heartbroken"
+]
 
 const autowrite = () => {
     let confessionsToPost = '';
