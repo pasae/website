@@ -1,5 +1,5 @@
 confessions =
-"we fell off fr, run it back?",
+["we fell off fr, run it back?",
 "tye should breakdance again",
 "I am so down bad for you. I just hope you  notice ",
 "y'all ready for beach day social, anime/philippine cultural themed socials and more game nights next sem? if so, ask them social chairs ",
