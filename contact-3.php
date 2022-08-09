@@ -111,7 +111,7 @@ try {
     $mail->Password = $smtpPassword;
     
     if (!$mail->send()) {
-        throw new \Exception('I could not send the email.' . $mail->ErrorInfo);
+        throw new \Exception('I could not send the email. ' . $mail->ErrorInfo);
     }
     
     $responseArray = array('type' => 'success', 'message' => $okMessage);
