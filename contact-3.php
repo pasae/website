@@ -31,7 +31,7 @@ $subject = 'New message from contact form';
 
 $smtpHost = 'smtp.ocf.berkeley.edu;smtp.gmail.com';
 $smtpUsername = 'pasae.noreply@gmail.com';
-$smtpPassword = 'QBsPT!PMN4%X#F';
+$smtpPassword = 'aslsxrujaedwipyi';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
