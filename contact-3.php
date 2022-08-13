@@ -99,7 +99,7 @@ try {
     $mail->Port = 587;
 
     //Set the encryption system to use - ssl (deprecated) or tls
-    $mail->SMTPSecure = 'tls';
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 
     //Set the authentication type
     $mail->AuthType = 'LOGIN';
