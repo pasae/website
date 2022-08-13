@@ -67,7 +67,7 @@ try {
     $emailTextHtml .= "</table><hr>";
     $emailTextHtml .= "<p>Best,<br>Matthew Mojica <br> PASAE 35 Webmaster</p>";
 
-    $mail = new PHPMailer(true);
+    $mail = new PHPMailer(True);
 
     $mail->setFrom($fromEmail, $fromName);
     $mail->addAddress($sendToEmail, $sendToName); // you can add more addresses by simply adding another line with $mail->addAddress();
@@ -86,7 +86,7 @@ try {
     // 0 = off (for production use)
     // 1 = client messages
     // 2 = client and server messages
-    $mail->SMTPDebug = 2;
+    $mail->SMTPDebug = 0;
     $mail->Debugoutput = 'html';
 
     //Set the hostname of the mail server
