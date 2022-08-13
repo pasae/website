@@ -96,10 +96,10 @@ try {
     $mail->Host = $smtpHost;
 
     //Set the SMTP port number - 587 for authenticated TLS, a.k.a. RFC4409 SMTP submission
-    $mail->Port = 587;
+    $mail->Port = 465;
 
     //Set the encryption system to use - ssl (deprecated) or tls
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
 
     //Set the authentication type
     $mail->AuthType = 'LOGIN';
