@@ -114,6 +114,7 @@ try {
     $mail->Password = $smtpPassword;
 
     if (!$mail->send()) {
+        echo $mail->ErrorInfo;
         throw new \Exception('I could not send the email. ' . $mail->ErrorInfo);
     }
 
