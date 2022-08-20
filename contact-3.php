@@ -29,7 +29,7 @@ $subject = 'New message from contact form';
 
 // smtp credentials and server
 
-$smtpHost = 'smtp.gmail.com';
+$smtpHost = 'smtp.ocf.berkeley.edu;smtp.gmail.com';
 $smtpUsername = 'pasae.noreply@gmail.com';
 $smtpPassword = 'aslsxrujaedwipyi';
 
@@ -99,7 +99,7 @@ try {
     $mail->Port = 587;
 
     //Set the encryption system to use - ssl (deprecated) or tls
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+    $mail->SMTPSecure = 'tls';
 
     //Set the authentication type
     $mail->AuthType = 'LOGIN';
