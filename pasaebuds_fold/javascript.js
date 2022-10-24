@@ -33,7 +33,7 @@ function load() {
 	console.log(pairs)
 
 	if (pairs.length == 0) {
-		alert('You can sign up for PASAEbuds in the form below to join next round! If you have already signed up, please check the spelling of your name.');
+		alert('Name not recognized. Please check the spelling of your name.');
 		return;
 	}
 
