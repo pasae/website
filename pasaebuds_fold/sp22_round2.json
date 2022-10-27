@@ -6,7 +6,7 @@ data = [
 {"First":"Nevin Bangloy","Second":"Conner Manuel"},
 {"First":"Carla Dagandan","Second":"Angelo Braganza"},
 {"First":"Tyrell Duya","Second":"Valerie Dumdum"},
-{"First":"Mark Yuzon","Second":"Matt Mojica"},
+{"First":"Mark Yuzon","Second":"Matthew Mojica"},
 {"First":"Romy Mastel","Second":"Charlynne Marcos"},
 {"First":"Kiana Eunice Florendo","Second":"Nohl Abdelhadi"},
 {"First":"Cassandra Aquino","Second":"Angelina Songco"},
@@ -28,7 +28,7 @@ data = [
 {"First":"nick labao","Second":"Mason Chen"},
 {"First":"Mila Speer","Second":"Nathan Fontanilla"},
 {"First":"Andres Gabagat","Second":"ana prieto"},
-{"First":"Matthew Cazas","Second":"Freya Medina"},
+{"First":"Wren Adcock","Second":"Freya Medina"},
 {"First":"Xavier Bayani","Second":"hannah shadmany"},
 {"First":"Emmuelle Ejanda","Second":"Michael Celebrado"},
 {"First":"Lianna Soriano","Second":"Felix Fuentes"},
@@ -36,5 +36,8 @@ data = [
 {"First":"Francesca Ezra","Second":"Reagan Bagnol"},
 {"First":"Jelo Francisco","Second":"Josh Bautista"},
 {"First":"Ryan Nuqui","Second":"Cody Garcia"},
-{"First":"Jeremy Villanueva","Second":"Eddy Byun"}
+{"First":"Jeremy Villanueva","Second":"Eddy Byun"},
+{"First":"Garrett Mejia","Second":"Zebedee Cataag"},
+{"First":"Francesca Estrada","Second":"Meiya Gujjalu"},
+{"First":"Bryan Hwang","Second":"Raphael Condor"}
 ]
