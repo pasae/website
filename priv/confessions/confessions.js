@@ -18,7 +18,6 @@ confessions = [
     "i would buy josh bautista's feet's onlyfans",
     "reva has a really cool left pinky fingernail. ",
     "nathan,  watch ur back. im replacing ur shoelaces w spaghetti ",
-    "too many of you core members are from legacy booo nepo babies 🤧",
     "are y'all putting less cough syrup in the pasae punch?? i can't see carol christ when i close my eyes anymore :(",
     "i would personally lick every door knob clean for Mark to never get covid 🥴🫡",
     "I want JR to run me over in a Loop cart on his way to class, so studious 📕",
