@@ -1,4 +1,5 @@
-data = 
+{
+"data" : 
 [{"First":"Ato Aliping","Second":"Raphael Condor"},
 {"First":"Violaine Domingo","Second":"Nadeem Mohiuddin"},
 {"First":"Ryan Nuqui","Second":"Charlynne Marcos"},
@@ -41,4 +42,4 @@ data =
 {"First":"Kiana Eunice Florendo","Second":"Meiya Gujjalu"},
 {"First":"Joyce Talavera","Second":"joely reyes"},
 {"First":"Michael Celebrado","Second":"Thomas Falcon"}
-]
+]}

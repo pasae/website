@@ -9,7 +9,7 @@ function load() {
 	}
 
 	input = input.toLowerCase();
-
+	// matthew mojica
 	var name = input.split(" ");
 	var i;
 	for (i = 0; i < myData.length; i++) {
