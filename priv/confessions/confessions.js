@@ -63,7 +63,7 @@ confessions = [
 "anyone else here failing their classes? don’t worry, you’re not alone. Failure is a part of learning and definitely will help shape you to the model you’re about to be :) just stay persistent and maintain a wonderful support circle around you ",
 "if you are reading this, I’m glad that you’re a part of PASAE and i’m so fortunate to have shared the space with such an awesome person like you. And yes, this message is bound to be read by super amazing people. Let’s run it back next semester!",
 "how was kpop jpop and international pop the same but not indie and indie rock? that was hard lmaoooo",
-"isn’t halloween already over? why tf ishe still ghosting me smh",
+"isn’t halloween already over? why tf is he still ghosting me smh",
 "i like someone so much that they get to appear in my dreams too often and i don’t even want to dream about them anymore. i’m okay",
 "hey y’all, i made a short video abt my how lovely my pasae crush is. please keep it to yourselves after watching thank you!     https://m.youtube.com/watch?v=dQw4w9WgXcQ  ",
 "s/o to the karoake vibes after banquet, elite",
