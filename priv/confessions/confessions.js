@@ -183,7 +183,7 @@ const autowrite = () => {
     const cardColors = ['primary', 'danger', 'warning'];
     let cardNum = 0;
 
-    confessions.sort((a, b) => a.length - b.length)
+    confessions.sort((a, b) => b.length - a.length)
 
     for (let i in confessions) {
         const conf = confessions[i];
