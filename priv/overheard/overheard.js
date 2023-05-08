@@ -1,4 +1,4 @@
-overheard = [",
+overheard = [
 "I put the pee in depression|Camille,",
 "God I spit everywhere, Im such a whore|Audrey,",
 "I need to be surrounded by Js because Im a big pp|Audrey,",
@@ -57,7 +57,7 @@ overheard = [",
 ]
 
 const autowrite = () => {
-    let overheardToPost = "";
+    let overheardToPost = '';
 
     overheard.sort((a, b) => b.length - a.length)
 
@@ -65,10 +65,10 @@ const autowrite = () => {
         const quote = overheard[i].split("|");
         if (quote.length == 1) {
             let card = `
-            <div class=col-md-6>
-                <blockquote style=border-left: none>
-                    <nav aria-label=breadcrumb>
-                        <ol class=breadcrumb>
+            <div class="col-md-6">
+                <blockquote style="border-left: none">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
                             ${quote[0]}
                         </ol>
                     </nav>
@@ -77,10 +77,10 @@ const autowrite = () => {
             overheardToPost += card;
         } else {
             let card = `
-            <div class=col-md-6>
-                <blockquote style=border-left: none>
-                    <nav aria-label=breadcrumb>
-                        <ol class=breadcrumb>
+            <div class="col-md-6">
+                <blockquote style="border-left: none">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
                             ${quote[0]}
                             <br>
                             - ${quote[1]}
@@ -93,7 +93,7 @@ const autowrite = () => {
 
     }
     console.log(overheardToPost)
-    document.getElementById(overheard).innerHTML = overheardToPost;
+    document.getElementById("overheard").innerHTML = overheardToPost;
 }
 
 autowrite();
