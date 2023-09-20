@@ -36,7 +36,7 @@ confessions = [
 "i miss her ",
 "i miss him",
 "i miss my cat",
-"Nohl Abdelhadi, CS 61B TA",
+"Nohl Abdelhadi, CS 61B TA.",
 ]
 
 const autowrite = () => {
