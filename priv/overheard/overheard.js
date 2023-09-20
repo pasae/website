@@ -1,4 +1,9 @@
-overheard = []
+overheard = [
+"pa'sayonara - :| garrett matt carm "
+"asthma hookah - anonymous"
+"None of my business - anonymous"
+"I like 'em segregated. - talking about different colored clothes"
+]
 
 const autowrite = () => {
     let overheardToPost = '';
