@@ -1,5 +1,5 @@
 confessions = [
-"i bet nohl has such a tight lil man bussy",
+" i bet nohl has such a tight lil man bussy",
 "i want matt so bad.like i know he was webmaster last year but this year he can be * my * master😩",
 "yall dont talk about me enough",
 "thomas is so silly goose",
