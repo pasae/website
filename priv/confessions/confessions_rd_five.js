@@ -32,7 +32,16 @@ confessions = [
 "i want a devils threeway with either pair of the co's or maybe one of each so i can mix and match 🤪",
 "whoever that was asking abt pa'shlop last week... lemme kno... imma demon fr",
 "whenever im w ipad kidz its like we're all collectively sharing the same brain cell",
-"my component meetings feel like a date and i'm the third wheel 🗿"
+"my component meetings feel like a date and i'm the third wheel 🗿",
+"Adriel gives me erections that last more than 4 hours",
+"I once went to third base, without ever touching first or second.",
+"Mila definitely knows how to hide a body",
+"I want Garrett to [REDACTED]",
+"i want to know anna better",
+"looking forward to revelations this weekend!!!!",
+"live, laugh, love pasae til i mf die",
+"reeeeeeeese what’s your go to music vibe??",
+"(not me writing this 5 minutes before it’s up) "
 ]
 
 const autowrite = () => {
