@@ -96,8 +96,20 @@
 
 /* Containers */
 
-	.container {
-		
+	.button-container-privportal {
+		text-align: center;
+		/* Center align the buttons horizontally */
+	}
+
+
+
+	.custom-button {
+		padding: 20px 40px;
+		font-size: 20px;
+		margin: 100px;
+		text-align: center;
+		display: block;
+		margin: 0 auto;
 	}
 
 	.container.\31 25\25 {
