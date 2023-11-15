@@ -19,7 +19,7 @@ confessions = [
 "my deepest darkest pa'secret is that i think [REDACTED] is [REDACTED]",
 "Rip nohl aaron abdelhadi ill miss that beautiful 12 in elephant trunk of yours 😭",
 "i bet adriel lowkey freaky like dude prolly likes sniffing ass or sum shit, not that i judge tho i want him to sniff my ass and whisper in my ear calling me his dirty little kitten 🥴",
-"PASAE HOTSEAT AT PASSGIVING ",
+"PASAE HOTSEAT AT PASSGIVING",
 "I don’t like [redacted] that much 😭I’m sorry",
 "I’m so proud of creative I love you guys🫰",
 "GARRETT WILL WIN CORESASSINS.",
