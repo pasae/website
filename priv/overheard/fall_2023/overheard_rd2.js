@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
 "'you know like those cream - filled donuts ? i want you to fill me up like that'",
 "'theres 2.5 inches in a centimeter' - karlaine",
 "'i put my plate on someone elses lap... and started eating from the lap'",
-"'Is it not 3 inches ? I've been telling people it's 3 inches.'",
+"'Is it not 3 inches ? I've been telling people it's 3 inches.' - Xavier",
 "'DUDE.i could build a bomb'",
 "'[Directed at Nohl] No wonder you are a little naughty dirty soy boy.' - Freya",
 "'I only got four hours of sleep last night because of you'",
