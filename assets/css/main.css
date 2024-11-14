@@ -4397,3 +4397,30 @@
 
 		}
 
+/* Core Member Icon */
+
+.team-member {
+	text-align: center;
+}
+
+.team-member .list-inline {
+	display: flex;
+	padding: 0;
+	margin-top: 10px;
+}
+
+	
+
+	
+
+
+.team-member .social-buttons li {
+	margin-left: 80px; /* Fine-tune this value if needed */
+}
+
+	/* Internal */
+
+	.internal {
+		margin-left: -6px;
+	}
+
