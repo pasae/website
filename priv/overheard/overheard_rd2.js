@@ -2,11 +2,27 @@ console.log("Script loaded");
 
 document.addEventListener("DOMContentLoaded", function () {
     const overheard = [
-        "I died and came back to life in 1 day… I'm 3 times fast as Jesus. - Xavier",
-        "what if we crossed streams - Matt",
-        "Q: Who's the most degenerate in PASAE? A: (without skipping a beat) oh probably Garrett - Unnamed speaker",
-        "i have a lot of leg hair. it reminds me of the sourdough starter - Matthew Mojica",
-        "I actually almost started choking on some balls there for a second - Garrett"
+        "Do Chinese people have this? Do they have a CHASAE? -Matthew",
+        "i heard garret doesnt shower ewww grossss yuck",
+        "im not lettin no boy eat my cum",
+        "shout out my trans folk -Xavier",
+        "i don’t hate gay michael, i hate taiwanese dan! -Garrett",
+        "cum in my butt -Shane",
+        "but my income !!!!!!!!",
+        "peach! couple to throuple is my favorite show!",
+        "I didn't mean to zoom in on his balls my bad -Francesca",
+        "Are you comfortable getting on your knees? -Matthew",
+        `(on the pasae instagram search bar)
+
+        "sourdough basics"
+        "sourdough"
+        "how to dress basics men"
+        "how to dress better men"`,
+        "I want to hear you guys moan -Albie",
+        "I wouldn't want to be named Pittsburgh -Xavier",
+        "Everyone wants skinless chicken, but what about skinful chicken? -Garrett",
+        "Take it from the goose -Francesca",
+        "Did you feel like a loser back then"
     ];
 
     const autowrite1 = () => {
