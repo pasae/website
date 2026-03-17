@@ -1,28 +1,14 @@
 confessions = [
-    "i confess dat som of yall dress wack but that’s ok",
-    "If you go to Fun Park and see a doodle where the pens are, I drew the one on the left.",
-    "shane is a little too husky for the vlsb seats! :)",
-    "brendan supports bi people",
-    "im glad sophia kicked garrett in the face and made him bleed. dat foo gettin on my nerves lowk sometimes. but thats ok.",
-    "i dont rly like strawberry milk but this was a good deal thanks sophia",
-    "i think brendan should be president. get down mr president. get down.",
-    "oj'8 u[;g'ugaby",
-    "sometimes there be a bitch yellin in my ear. and every time. its shane.",
-    "shane is bisexual and brendan is his secret love.r. my inside source told me (shane)",
-    "i rly cant finish this strawberry milk rn",
-    "I really enjoyed Ethan's workshop :)",
-    "i confess that shane looks rly tired. and i think he should take a little nap sometimes. might help with the stims i think",
-    "why does shane give chatgpt pronouns :( i think that is so weird.",
-    "my name is xavier and i am sponsored by gemini.",
-    "justin👀👀👀👀👀👀👀👀",
-    "I miss core 37",
-    "i love shane",
-    "shane is the best",
-    "i love shane",
-    "shane",
-    "pasae has some hotties🫣",
-    "I have a confession",
-    "Garrett doesn't know how to fight I could easily take that bloke"
+    "I mix Brendan and Matthew up sometimes. I don't know why. Maybe since they are both super chill?",
+    "Hearing Francesca sing is a sign for me to up my game. She sets a high bar.",
+    "im ALSO lowk glad sophia kicked garrett in the face and made him bleed. sometimes he's a little too dismissive lol",
+    "I always fear people talk behind my back.",
+    "i cried watching the recent pasae reels",
+    "If you genuinely like the writing of Beast Yeast Episode 15 of Cookie Run Kingdom, IT IS ON SIGHT. COUNT YOUR DAYS- /hj",
+    "Seriously though, I need a few weeks to recover from the latest CRK update. :'D",
+    "Matthew should have won in the rage cage",
+    "Shane drops his pants all the way down when he pees",
+    "I'm gonna miss the seniors next year 😪"
 ]
 
 const autowrite = () => {

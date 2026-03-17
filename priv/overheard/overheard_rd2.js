@@ -2,12 +2,24 @@ console.log("Script loaded");
 
 document.addEventListener("DOMContentLoaded", function () {
     const overheard = [
-        "I love coc -Shane",
-        "lemme crush those nuts -Christian",
-        "you should always remember if you ever put your mind to it you can do this -Matthew",
-        "Who hasn't twerked let's be honest -Brendan",
-        "Yeah I like my girlfriend she's like my sister",
-        "Let's load the penis on the plate -Xavier"
+        "External is black. -Ethan", 
+        "Im black? -Gaby",
+        "She (Gaby) doesnt just smoke cigarettes, she smokes ketamine.",
+        "You guys should come out and watch us kill each other. -Garrett",
+        "college is all about exploring your bisexuality.",
+        "Are u ready to get creampied. -Brendan",
+        "Get on your knees. -Brendan",
+        "Devsisters. Sleep with one eye open.",
+        "I prefer segragation. -Garrett",
+        "The person was turning Mexican. -Xavier",
+        "Maybe it is good to be Chinese. -Brendan",
+        "Can we play Chief Keef at the next study jam.",
+        "You should come out -Garrett",
+        "He gave me the Jacob pass. -Matthew",
+        "They were digging into each other -Matthew",
+        "You can put as much cream on my face as you want. -Ethan",
+        "That's my Achilles stomach it's huge. -Cody",
+        "I have a brother in me. -Garrett"
     ];
 
     const autowrite1 = () => {
