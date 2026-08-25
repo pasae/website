@@ -198,21 +198,23 @@ var settings = {
 
 		// Arrows.
 			if (options.arrows) {
+				var moveSlide = function(direction) {
+					var newPos = (pos + direction + slides.length) % slides.length;
+					$this._switchTo(newPos, true);
+				};
 
-				$('<a href="#" class="arrow prev"><span class="arrow-icon">&#10094;</span></a>')
+				$('<a href="#" class="arrow prev" aria-label="Previous slide"><span class="arrow-icon">&#10094;</span></a>')
 					.appendTo($this)
 					.on('click', function(e) {
 						e.preventDefault();
-						var newPos = (pos - 1 + slides.length) % slides.length;
-						$this._switchTo(newPos, true);
+						moveSlide(-1);
 					});
 
-				$('<a href="#" class="arrow next"><span class="arrow-icon">&#10095;</span></a>')
+				$('<a href="#" class="arrow next" aria-label="Next slide"><span class="arrow-icon">&#10095;</span></a>')
 					.appendTo($this)
 					.on('click', function(e) {
 						e.preventDefault();
-						var newPos = (pos + 1) % slides.length;
-						$this._switchTo(newPos, true);
+						moveSlide(1);
 					});
 
 			}

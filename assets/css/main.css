@@ -4228,6 +4228,7 @@
 			width: 3em;
 			line-height: 1;
 			opacity: 0.65;
+				box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.2);
 			position: absolute;
 			top: 50%;
 			margin-top: -1.5em;
@@ -4240,6 +4241,7 @@
 				background: rgba(0, 0, 0, 0.5);
 				color: #fed136;
 				opacity: 1;
+				transform: scale(1.08);
 			}
 
 			.banner .arrow.prev {
@@ -4505,7 +4507,8 @@
 	
 
 
-#executive .team-member .social-buttons {
+#executive .team-member .social-buttons,
+#executive .team-member .social-buttons.internal {
 	justify-content: center;
 	margin-left: 0;
 }
@@ -4536,7 +4539,7 @@
 	/* Internal */
 
 	.internal {
-		margin-left: -6px;
+		margin-left: 0;
 	}
 
 /* Nav dropdown - flow down instead of popping in */
@@ -4546,6 +4549,7 @@
 		opacity: 0;
 		visibility: hidden;
 		max-height: 0;
+		transform: translateY(-0.5rem);
 		overflow: hidden;
 		pointer-events: none;
 		padding-top: 0;
@@ -4560,6 +4564,7 @@
 		opacity: 1;
 		visibility: visible;
 		max-height: 20em;
+		transform: translateY(0);
 		pointer-events: auto;
 		padding-top: 0.5rem;
 		padding-bottom: 0.5rem;
