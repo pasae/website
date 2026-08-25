@@ -1822,7 +1822,15 @@
 
 	}
 
-	
+	#two.wrapper.style4 .content,
+	#two.wrapper.style4 .content > * {
+		text-align: center;
+	}
+
+	#two.wrapper.style4 .content {
+		margin-left: auto;
+		margin-right: auto;
+	}
 
 	.align-right {
 		text-align: right;
@@ -3546,6 +3554,13 @@
 
 		.grid-style .box {
 			margin: 0;
+			transition: transform 0.2s ease, box-shadow 0.2s ease;
+			transform: translateY(0);
+		}
+
+		.grid-style .box:hover {
+			transform: translateY(-8px);
+			box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
 		}
 
 		@media screen and (max-width: 980px) {
@@ -4194,11 +4209,78 @@
 					background: #fff;
 				}
 
+		.banner .arrow {
+			-moz-transition: background-color 0.2s ease, opacity 0.2s ease, color 0.2s ease;
+			-webkit-transition: background-color 0.2s ease, opacity 0.2s ease, color 0.2s ease;
+			-ms-transition: background-color 0.2s ease, opacity 0.2s ease, color 0.2s ease;
+			transition: background-color 0.2s ease, opacity 0.2s ease, color 0.2s ease;
+			background: rgba(0, 0, 0, 0.25);
+			border-radius: 100%;
+			color: #fff;
+			cursor: pointer;
+			display: -moz-flex;
+			display: -webkit-flex;
+			display: -ms-flex;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 3em;
+			width: 3em;
+			line-height: 1;
+			opacity: 0.65;
+			position: absolute;
+			top: 50%;
+			margin-top: -1.5em;
+			text-align: center;
+			text-decoration: none;
+			z-index: 3;
+		}
+
+			.banner .arrow:hover {
+				background: rgba(0, 0, 0, 0.5);
+				color: #fed136;
+				opacity: 1;
+			}
+
+			.banner .arrow.prev {
+				left: 1.5em;
+			}
+
+			.banner .arrow.next {
+				right: 1.5em;
+			}
+
+			.banner .arrow .arrow-icon {
+				font-size: 1.5em;
+			}
+
+			@media screen and (max-width: 736px) {
+
+				.banner .arrow {
+					height: 2.25em;
+					width: 2.25em;
+					margin-top: -1.125em;
+				}
+
+				.banner .arrow.prev {
+					left: 0.75em;
+				}
+
+				.banner .arrow.next {
+					right: 0.75em;
+				}
+
+				.banner .arrow .arrow-icon {
+					font-size: 1.1em;
+				}
+
+			}
+
 		.banner > article {
-			-moz-transition: opacity 1.5s ease, visibility 1.5s;
-			-webkit-transition: opacity 1.5s ease, visibility 1.5s;
-			-ms-transition: opacity 1.5s ease, visibility 1.5s;
-			transition: opacity 1.5s ease, visibility 1.5s;
+			-moz-transition: opacity 0.5s ease, visibility 0.5s;
+			-webkit-transition: opacity 0.5s ease, visibility 0.5s;
+			-ms-transition: opacity 0.5s ease, visibility 0.5s;
+			transition: opacity 0.5s ease, visibility 0.5s;
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -4403,6 +4485,15 @@
 	text-align: center;
 }
 
+	/* Keep photos scaled to their column instead of overflowing/getting clipped on smaller screens */
+	#team-member .team-member img {
+		width: 225px;
+		max-width: 100%;
+		height: auto;
+		aspect-ratio: 1 / 1;
+		box-sizing: border-box;
+	}
+
 .team-member .list-inline {
 	display: flex;
 	padding: 0;
@@ -4414,13 +4505,48 @@
 	
 
 
-.team-member .social-buttons li {
-	margin-left: 80px; /* Fine-tune this value if needed */
+#executive .team-member .social-buttons {
+	justify-content: center;
+	margin-left: 0;
+}
+
+#executive .team-member .social-buttons li {
+	margin-left: 0;
+}
+
+#executive .team-member .social-buttons li a {
+	margin-left: 0;
 }
 
 	/* Internal */
 
 	.internal {
 		margin-left: -6px;
+	}
+
+/* Nav dropdown - flow down instead of popping in */
+
+	#mainNav .dropdown-menu {
+		display: block !important;
+		opacity: 0;
+		visibility: hidden;
+		max-height: 0;
+		overflow: hidden;
+		pointer-events: none;
+		padding-top: 0;
+		padding-bottom: 0;
+		-moz-transition: opacity 0.3s ease, max-height 0.3s ease, visibility 0.3s, padding 0.3s ease;
+		-webkit-transition: opacity 0.3s ease, max-height 0.3s ease, visibility 0.3s, padding 0.3s ease;
+		-ms-transition: opacity 0.3s ease, max-height 0.3s ease, visibility 0.3s, padding 0.3s ease;
+		transition: opacity 0.3s ease, max-height 0.3s ease, visibility 0.3s, padding 0.3s ease;
+	}
+
+	#mainNav .dropdown-menu.show {
+		opacity: 1;
+		visibility: visible;
+		max-height: 20em;
+		pointer-events: auto;
+		padding-top: 0.5rem;
+		padding-bottom: 0.5rem;
 	}
 

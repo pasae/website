@@ -11,9 +11,12 @@ var settings = {
 		// Indicators (= the clickable dots at the bottom).
 			indicators: true,
 
+		// Arrows (= the clickable prev/next buttons on the sides).
+			arrows: true,
+
 		// Transition speed (in ms)
 		// For timing purposes only. It *must* match the transition speed of "#banner > article".
-			speed: 1500,
+			speed: 500,
 
 		// Transition delay (in ms)
 			delay: 5000,
@@ -141,8 +144,10 @@ var settings = {
 				i = 0;
 
 		// Turn off indicators if we only have one slide.
-			if ($slides.length == 1)
+			if ($slides.length == 1) {
 				options.indicators = false;
+				options.arrows = false;
+			}
 
 		// Functions.
 			$this._switchTo = function(x, stop) {
@@ -190,6 +195,27 @@ var settings = {
 		// Indicators.
 			if (options.indicators)
 				$indicators = $('<ul class="indicators"></ul>').appendTo($this);
+
+		// Arrows.
+			if (options.arrows) {
+
+				$('<a href="#" class="arrow prev"><span class="arrow-icon">&#10094;</span></a>')
+					.appendTo($this)
+					.on('click', function(e) {
+						e.preventDefault();
+						var newPos = (pos - 1 + slides.length) % slides.length;
+						$this._switchTo(newPos, true);
+					});
+
+				$('<a href="#" class="arrow next"><span class="arrow-icon">&#10095;</span></a>')
+					.appendTo($this)
+					.on('click', function(e) {
+						e.preventDefault();
+						var newPos = (pos + 1) % slides.length;
+						$this._switchTo(newPos, true);
+					});
+
+			}
 
 		// Slides.
 			$slides

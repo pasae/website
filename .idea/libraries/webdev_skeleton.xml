@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webdev_skeleton">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webdev_skeleton.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
