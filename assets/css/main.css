@@ -4518,6 +4518,21 @@
 	margin-left: 0;
 }
 
+.application-heading {
+	display: inline-block;
+	padding: 0 0.2em;
+	transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.application-heading a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.application-heading:hover {
+	transform: translateY(-6px);
+}
+
 	/* Internal */
 
 	.internal {
